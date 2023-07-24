@@ -20,6 +20,7 @@ author: Bartallama3D
 ###############################################
 
 navbar-links:
+  Shop: "https://shop.Bartallama3D.design"
   About Me: "aboutme"
 
 ################
@@ -49,6 +50,7 @@ social-network-links:
   instagram: Bartallama3D
   etsy: Bartallama3D
   youtube: Bartallama3D
+  ebay: Bartallama3D
   #email: "someone@example.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: 

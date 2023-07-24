@@ -27,6 +27,19 @@
   </li>
   {%- endif -%}
 
+  {%- if network[0] == "ebay" -%}
+  <li class="list-inline-item">
+    <a href="https://www.ebay.com/usr/{{ network[1] }}" title="Ebay">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-ebay fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Ebay</span>
+    </a>
+  </li>
+  {%- endif -%}
+
+
   {%- if network[0] == "calendly" -%}
   <li class="list-inline-item">
     <a href="https://calendly.com/{{ network[1] }}" title="Schedule a meeting with me">
