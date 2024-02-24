@@ -1,0 +1,184 @@
+---
+layout: page
+page_name: Product Listing
+---
+<a href="/products"><button type="button" class="btn btn-outline-dark"><i class="fas fa-long-arrow-alt-left"></i> Back to all products</button></a>
+<div class="container">
+  <div class="row">
+    <div class="col-5">
+      <img src="/assets/img/listing-photos/{{ page.product_id }}/{{ page.image_thumbnail }}">
+    </div>
+    <div class="col-7">
+      <h2>{{ page.name }}</h2>
+      <span>{{ page.description }}</span>
+      <h3>${{ page.cost }} + Shipping
+        <h3>Key Features:</h3>
+        <ul>
+          {% for bullet in page.bullet_points %}
+          <li>{{ bullet.point }}</li>
+          {% endfor %}
+        </ul>
+        </h4>
+        {% if page.etsy_link %}
+        <a href="{{ page.etsy_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
+          style="--bs-btn-bg: #D5641C; --bs-btn-hover-bg: #EB6D20; --bs-btn-border-color: #F5641C "><i
+            class="fab fa-etsy"></i> Buy on Etsy</button></a> {% endif %}
+        {% if page.ebay_link %}
+            <a href="{{ page.ebay_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
+          style="--bs-btn-bg: #0064D2; --bs-btn-hover-bg: #86B817; --bs-btn-border-color: #0064D2 "><i
+            class="fab fa-ebay"></i> Buy on Ebay</button></a>{% endif %}
+        {% if page.amazon_link %}
+            <a href="{{ page.amazon_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
+          style="--bs-btn-bg: #FF9900; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #FF9900 "><i
+            class="fab fa-amazon"></i> Buy on Amazon</button></a>{% endif %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="accordion accordion-flush">
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+            Description
+          </button>
+        </h2>
+        <div id="flush-collapseOne" class="accordion-collapse collapse">
+          <div class="accordion-body"> {{ content }}
+          </div>
+        </div>
+      </div>
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-specifications" aria-expanded="false" aria-controls="flush-specifications">
+            Specifications
+          </button>
+        </h2>
+        <div id="flush-specifications" class="accordion-collapse collapse">
+          <div class="accordion-body">
+            <table class="table table-striped">
+              <tbody>
+                {% for spec in page.specs %}
+                <tr>
+                  <th scope="row">{{ spec[0] }}</th>
+                  <td>{{ spec[1] }}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      {% if page.additional_links %}
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-additional-links" aria-expanded="false" aria-controls="flush-additional-links">
+            Additional Links
+          </button>
+        </h2>
+        <div id="flush-additional-links" class="accordion-collapse collapse">
+          <div class="accordion-body"> 
+            <table class="table table-striped">
+              <thead>
+                <th>Link</th>
+                <th>Description</th>
+                <th>Link</th>
+              </thead>
+              <tbody>
+                {% for link in page.additional_links %}
+                <tr>
+                  <td>{{ link.text }}</td>
+                  <td>{{ link.description }}</td>
+                  <td><a href="{{ link.link }}"> Link</a></td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      {% endif %}
+
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-revision-history" aria-expanded="false" aria-controls="flush-revision-history">
+            Revision History
+          </button>
+        </h2>
+        <div id="flush-revision-history" class="accordion-collapse collapse">
+          <div class="accordion-body">
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th scope="col">ID</th>
+                  <th scope="col">Changes</th>
+                  <th scope="col">Flags</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for revision in page.revisions %}
+                <tr>
+                  <th scope="row">{{ revision.version }}</th>
+                  <td>{{ revision.change_log }}</td>
+                  <td> 
+                    {% if revision.final %}
+                    <span class="d-inline-block" tabindex="0" data-bs-toggle="popover" data-bs-trigger="hover focus"
+                      data-bs-content="Final Revision in this major version">
+                      <span class="badge text-bg-success">Final</span>
+                    </span>
+                    {% endif %}
+                    {% if revision.upgrade_recommended %}
+                      <span class="badge text-bg-warning">Upgrade Recommended</span>
+                    {% endif %}
+                  </td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+  <div class="row">
+    <h2>Additional Photos:</h2>
+    {% for image in page.images %}
+    <div class="col-3">
+      <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#image-modal-{{image.id}}"><img
+          src="/assets/img/listing-photos/{{ page.product_id }}/{{ image.src }}"></button>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="image-modal-{{image.id}}" tabindex="-1" aria-labelledby="image-modal-{{image.id}}"
+      aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="exampleModalLabel">{{ image.title }} </h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <img src="/assets/img/listing-photos/{{ page.product_id }}/{{ image.src }}"><br />
+            {{ image.description }}
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% if page.youtube_embed_link %}
+  <div class="row">
+    <h2>Youtube Promo/Instructional Video:</h2>
+    <iframe width="560" height="800" src="{{ page.youtube_embed_link }}" title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+  </div>
+  {% endif %}
+</div>

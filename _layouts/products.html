@@ -1,0 +1,26 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign products = paginator.products | default: site.products | sort: "product_id_int" %}
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+  {% for product in products %}
+  <div class="col">
+    <div class="card">
+      <a href="/products/{{ product.product_id }}"><img class="card-img-top" alt="photo of {{ product.name }}"
+          src="/assets/img/listing-photos/{{product.product_id}}/thumb.jpg"></a>
+      <div class="card-body">
+        <h5 class="card-title">{{ product.name }}</h5>
+        <p class="card-text">{{ product.description }}
+        </p>
+      </div>
+      <div class="card-footer text-end">
+        <a href="/products/{{ product.product_id }}"><button type="button" class="btn btn-primary">Details</button></a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
