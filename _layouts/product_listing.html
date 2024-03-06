@@ -6,7 +6,7 @@ page_name: Product Listing
 <div class="container">
   <div class="row">
     <div class="col-5">
-      <img src="/assets/img/listing-photos/{{ page.product_id }}/{{ page.image_thumbnail }}">
+      <img src="/assets/img/listing-photos/{{ page.product_id }}/{{ page.image_thumbnail }}" alt="Product photo of the {{ page.name }}">
     </div>
     <div class="col-7">
       <h2>{{ page.name }}</h2>
@@ -19,9 +19,13 @@ page_name: Product Listing
           {% endfor %}
         </ul>
         </h4>
+        {% if page.instruction_pdf %}
+        <a href="/assets/instuction_pdfs/{{ page.instruction_pdf }}"><button class="btn btn-md btn-primary bs-btn-color:"
+            style="--bs-btn-bg: #232F3E; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #FF9900 "><i
+              class="fas fa-book"></i> Instruction Manual</button></a>{% endif %}
         {% if page.etsy_link %}
         <a href="{{ page.etsy_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
-          style="--bs-btn-bg: #D5641C; --bs-btn-hover-bg: #EB6D20; --bs-btn-border-color: #F5641C "><i
+          style="--bs-btn-bg: #D5641C; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #F5641C "><i
             class="fab fa-etsy"></i> Buy on Etsy</button></a> {% endif %}
         {% if page.ebay_link %}
             <a href="{{ page.ebay_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
@@ -31,6 +35,7 @@ page_name: Product Listing
             <a href="{{ page.amazon_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
           style="--bs-btn-bg: #FF9900; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #FF9900 "><i
             class="fab fa-amazon"></i> Buy on Amazon</button></a>{% endif %}
+        
     </div>
   </div>
   <div class="row">
@@ -148,8 +153,8 @@ page_name: Product Listing
     <h2>Additional Photos:</h2>
     {% for image in page.images %}
     <div class="col-3">
-      <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#image-modal-{{image.id}}"><img
-          src="/assets/img/listing-photos/{{ page.product_id }}/{{ image.src }}"></button>
+      <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#image-modal-{{image.id}}" aria-label="This image opens a popup with the description {{ image.description }}"><img
+          src="/assets/img/listing-photos/{{ page.product_id }}/{{ image.src }}" alt="{{ image.description }}"></button>
     </div>
     <!-- Modal -->
     <div class="modal fade" id="image-modal-{{image.id}}" tabindex="-1" aria-labelledby="image-modal-{{image.id}}"

@@ -9,6 +9,7 @@ image_thumbnail: 0.jpg
 description: Apple Vision Pro Battery Holder w/Arm Band
 etsy_link: https://www.etsy.com/listing/1662692872/battery-holder-for-apple-vision-pro-with
 amazon_link: https://a.co/d/1pHOtJA
+instruction_pdf: 10-AVP-Battery-Holder-Arm-Band-Bartallama3D.pdf
 ebay_link: 
 youtube_link: https://youtu.be/jvZSxdw7KCs
 youtube_embed_link: https://www.youtube.com/embed/jvZSxdw7KCs
