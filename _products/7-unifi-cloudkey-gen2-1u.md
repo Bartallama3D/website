@@ -9,7 +9,8 @@ image_thumbnail: 0.jpg
 description: Mount your Cloud Key in your server rack
 etsy_link: 
 amazon_link: https://a.co/d/hih57j9
-ebay_link: 
+ebay_link: 7-Unifi-CloudKey-Gen2-1u-Bartallama3D.pdf
+instruction_pdf: 9-AVP-Battery-Holder-Belt-Clip-Bartallama3D.pdf
 youtube_link: https://youtu.be/yjBMcymp3E4
 youtube_embed_link: https://www.youtube.com/embed/yjBMcymp3E4
 bullet_points:

@@ -10,6 +10,7 @@ description: Mount for a Valentine One Concealed Display
 etsy_link: 
 amazon_link: https://a.co/d/3QS8tXc
 ebay_link: 
+instruction_pdf: 6-Tesla-Valentine-One-Concealed-Display-Gen1-Mount-Bartallam3D.pdf
 youtube_link: 
 youtube_embed_link: 
 bullet_points:
