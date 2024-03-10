@@ -11,14 +11,14 @@ etsy_link: https://www.etsy.com/listing/1662692872/battery-holder-for-apple-visi
 amazon_link: https://a.co/d/1pHOtJA
 instruction_pdf: 10-AVP-Battery-Holder-Arm-Band-Bartallama3D.pdf
 ebay_link: 
-youtube_link: https://youtu.be/jvZSxdw7KCs
-youtube_embed_link: https://www.youtube.com/embed/jvZSxdw7KCs
+youtube_link: https://youtu.be/dqjmfi5wpcs
+youtube_embed_link: https://www.youtube.com/embed/dqjmfi5wpcs
 bullet_points:
   - point: Perfectly fits the Apple Vision Pro Battery and has a snap fit for installation
   - point: Cutout for easy battery removal out of the holder
   - point: 14 inch long Arm Band fits most upper arms 
   - point: Holder does not block charging port from access
-  - point: Batter mounts both top-down and down-top inside the unit
+  - point: Battery mounts both top-down and down-top inside the unit
   - point: Comes with a cable tie to secure excess battery cord
 special_order: false
 customizeable: true

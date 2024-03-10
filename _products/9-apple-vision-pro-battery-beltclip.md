@@ -11,14 +11,14 @@ etsy_link: https://www.etsy.com/listing/1657669270/battery-holder-for-apple-visi
 amazon_link: https://a.co/d/0DsdZ3T
 ebay_link: 
 instruction_pdf: 9-AVP-Battery-Holder-Belt-Clip-Bartallama3D.pdf
-youtube_link: https://youtu.be/jvZSxdw7KCs
-youtube_embed_link: https://www.youtube.com/embed/jvZSxdw7KCs
+youtube_link: https://youtu.be/X2-c9D0eOb0
+youtube_embed_link: https://www.youtube.com/embed/X2-c9D0eOb0
 bullet_points:
   - point: Perfectly fits the Apple Vision Pro Battery and has a snap fit for installation
   - point: Cutout for easy battery removal out of the holder
   - point: Belt clip supports belts up to 1.5 inches tall and 0.25inches thick
   - point: Holder does not block charging port from access
-  - point: Batter mounts both top-down and down-top inside the unit
+  - point: Battery mounts both top-down and down-top inside the unit
   - point: Comes with a cable tie to secure excess battery cord
 special_order: false
 customizeable: true
