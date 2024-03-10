@@ -7,7 +7,7 @@ name: Unifi Cloud Key G2 Rackmount Bracket
 cost: "30.00"
 image_thumbnail: 0.jpg
 description: Mount your Cloud Key in your server rack
-etsy_link: 
+etsy_link: https://www.etsy.com/listing/1693598255/unifi-cloud-key-g2-rackmount-bracket
 amazon_link: https://a.co/d/hih57j9
 ebay_link: 
 instruction_pdf: 7-Unifi-CloudKey-Gen2-1u-Bartallama3D.pdf
@@ -68,3 +68,5 @@ Introducing our 3D printed Unifi Cloud Key G2 Plus 1U Bracket. This bracket allo
 \* Listing is for only the 3D Printed bracket. Cloud Key is not included. Mounting hardware for your rack is also not included. 
 
 \*\* The pictured color for this mount is Dark Gray. This listing is for the bracket printed in Black. If you'd like to get a custom color, other than black, please reach out and we can custom print another color if we have it in stock.
+
+We are not affiliated with, collaborating with, or endorsed by Ubiquiti. This product is a 3D Printed, custom designed accessory.
