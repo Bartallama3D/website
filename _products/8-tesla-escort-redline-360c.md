@@ -7,8 +7,9 @@ name: Tesla Escort Redline 360c Mount
 cost: "30.00"
 image_thumbnail: 0.jpg
 description: Mount for a Escort Redline 360c for a Tesla
-etsy_link: 
-amazon_link: 
+etsy_link: https://www.etsy.com/listing/1679418204/escort-redline-360c-mount-for-tesla
+instruction_pdf: 8-Tesla-Escort-Redline-360c-Mount-Bartallama3D.pdf
+amazon_link: https://a.co/d/cSsHLqG
 ebay_link: 
 youtube_link: https://youtu.be/OWW1zFBKoYk
 youtube_embed_link: https://www.youtube.com/embed/OWW1zFBKoYk
@@ -40,7 +41,7 @@ images:
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
-  Release Date: 3/10/2023
+  Release Date: 3/10/2024
   Compatible Units: Escort Redline 360c
 additional_links:
   - text: Escort Redline 360c
@@ -57,3 +58,4 @@ revisions:
 
 This listing is for 1 mount and includes all parts needed for assembly and installation.
 
+We are not affiliated with, collaborating with, or endorsed by Escort. This product is a 3D Printed, custom designed accessory.
