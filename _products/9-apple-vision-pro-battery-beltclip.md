@@ -55,9 +55,37 @@ images:
   src: 8.jpg
   description: "A picture of the included cable-tie with cable wrapped up"
   title: Cable Tie
+- id: 9
+  src: other_colors.jpg
+  description: "A picture of the battery holder in 6 different colors Red, Blue, Orange, Purple, Glitter Gray, and Yellow"
+  title: Other Colors Available
+- id: 10
+  src: red.jpg
+  description: "A picture of the holder in Red"
+  title: Red Variant
+- id: 11
+  src: blue.jpg
+  description: "A picture of the holder in Blue"
+  title: Blue Variant
+- id: 12
+  src: orange.jpg
+  description: "A picture of the holder in Orange"
+  title: Orange Variant
+- id: 13
+  src: purple.jpg
+  description: "A picture of the holder in Pruple"
+  title: Pruple Variant
+- id: 14
+  src: glitter-gray.jpg
+  description: "A picture of the holder in Glitter Gray"
+  title: Glitter Gray Variant
+- id: 15
+  src: yellow.jpg
+  description: "A picture of the holder in Yellow"
+  title: Yellow Variant
 specs:
-  Colors: White(Default) - Others available by request 
-  Material: PETG
+  Colors: White(Default), Red, Blue, Orange, Purple, Glitter Gray, Yellow - Others available by request 
+  Material: PETG, ABS (Glitter Gray)
   Release Date: 2/3/2024
   Compatible Units: Apple Vision Pro (1st Generation)
 additional_links:
