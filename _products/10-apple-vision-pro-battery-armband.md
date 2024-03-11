@@ -61,6 +61,9 @@ revisions:
     change_log: Initial release of the holder. Packed in plastic bags & fully assembled.
   - version: 1.1
     change_log: Optimizations for printing w/less failures, added white cable tie to all units.
+  - version: 1.2
+    change_log: All units now come packaged in a box.
+  
 ---
 
 Introducing the Bartallama3D Battery Holder – the practical solution for your Apple Vision Pro battery! 3D printed using PETG plastic, known for its lightweight and impact-resistant properties.
