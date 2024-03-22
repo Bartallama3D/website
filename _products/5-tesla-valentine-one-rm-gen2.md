@@ -1,9 +1,9 @@
 ---
 layout: product_listing
-title: Tesla Valentine One Gen2 Mount
+title: Bartallama3D™ Radar Holder for Valentine One Gen2 compatible with Tesla Vehicles
 product_id: 5-tesla-valentine-one-rm-gen2
 product_id_int: 5
-name: Tesla Valentine One Gen2 Mount
+name: Bartallama3D™ Radar Holder for Valentine One Gen2 compatible with Tesla Vehicles
 cost: "30.00"
 image_thumbnail: 0.jpg
 description: Mount for a Valentine One Gen2 for a Tesla

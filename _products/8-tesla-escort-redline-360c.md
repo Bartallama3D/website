@@ -1,9 +1,9 @@
 ---
 layout: product_listing
-title: Tesla Escort Redline 360c Mount
+title: Bartallama3D™ Radar Holder for Escort Redline 360c compatible with Tesla Vehicles
 product_id: 8-tesla-escort-redline-360c
 product_id_int: 8
-name: Tesla Escort Redline 360c Mount
+name: Bartallama3D™ Radar Holder for Escort Redline 360c compatible with Tesla Vehicles
 cost: "30.00"
 image_thumbnail: 0.jpg
 description: Mount for a Escort Redline 360c for a Tesla

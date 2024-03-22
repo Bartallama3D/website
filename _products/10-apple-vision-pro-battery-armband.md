@@ -1,9 +1,9 @@
 ---
 layout: product_listing
-title: Apple Vision Pro Battery Holder w/Arm Band
+title: Bartallama3D™ Battery Holder Case for Apple Vision Pro w/Arm Band
 product_id: 10-apple-vision-pro-battery-armband
 product_id_int: 10
-name: Apple Vision Pro Battery Holder w/Arm Band
+name: Bartallama3D™ Battery Holder Case for Apple Vision Pro w/Arm Band
 cost: "30.00"
 image_thumbnail: 0.jpg
 description: Apple Vision Pro Battery Holder w/Arm Band
