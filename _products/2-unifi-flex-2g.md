@@ -4,7 +4,7 @@ title: Bartallama3D™ Bracket for Unifi Flex Camera - 2-Gang
 product_id: 2-unifi-flex-2g
 product_id_int: 2
 name: Bartallama3D™ Bracket for Unifi Flex Camera - 2-Gang
-cost: "13.00"
+cost: "18.00"
 image_thumbnail: 0.jpg
 description: Mount for a Unfi Flex Camera that fits in a 2-Gang electrical enclosure
 etsy_link: https://www.etsy.com/listing/1622955484/unifi-flex-camera-bracket-2-gang

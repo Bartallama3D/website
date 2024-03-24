@@ -4,7 +4,7 @@ product_id: 1-unifi-flex-1g
 title: Bartallama3D™ Bracket for Unifi Flex Camera - 1-Gang
 product_id_int: 1
 name: Bartallama3D™ Bracket for Unifi Flex Camera - 1-Gang
-cost: "10.00"
+cost: "16.00"
 image_thumbnail: 0.jpg
 etsy_link: https://www.etsy.com/listing/1502616954/premium-3d-printed-unifi-flex-camera
 amazon_link: https://a.co/d/c9Bvn4w
