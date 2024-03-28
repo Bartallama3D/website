@@ -7,8 +7,9 @@ name: Bartallama3D™ Radar Holder for Radenso Pro M compatible with Tesla Vehic
 cost: "30.00"
 image_thumbnail: 1.jpg
 description: Mount for a Radenso Pro M for a Tesla
-etsy_link: 
-amazon_link: 
+etsy_link: https://www.etsy.com/listing/1690123666/bartallama3d-radar-holder-for-radenso
+amazon_link: https://a.co/d/1kSEL5P
+instruction_pdf: 11-Tesla-Radenso-Pro-M-Holder-Bartallama3D.pdf
 ebay_link: 
 youtube_link: 
 youtube_embed_link: 
@@ -57,3 +58,5 @@ Introducing the Bartallama3D™ Radar Holder for Radenso Pro M, designed specifi
 \* Radenso Pro M Radar Detector not included
 
 \*\* If you require a custom order, custom colors, or changes please reach out for assistance.
+
+\*\*\* Huge shout out to Radenso for providing a dummy unit to prototype and create this radar bracket. We appreciate the partnership! 
