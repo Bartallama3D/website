@@ -30,10 +30,14 @@ images:
   title: Assembled with Radar
 - id: 3
   src: 3.jpg
-  description: "Front view of the radar unit mounted on the center screen of a Tesla"
-  title: Mounted in Tesla - Front View
+  description: "Image showing the V1Gen1 radar it is compatible with"
+  title: Compatibility Chart
 - id: 4
   src: 4.jpg
+  description: "Front view of the radar unit mounted on the center screen of a Tesla"
+  title: Mounted in Tesla - Front View
+- id: 5
+  src: 5.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
 specs:
