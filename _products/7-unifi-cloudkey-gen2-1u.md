@@ -35,20 +35,29 @@ images:
   title: Technical Specifications
 - id: 4
   src: 4.jpg
-  description: "A picture of the back of a assembled unit with a Cloud Key Gen2 Plus Installed"
-  title: Assembled unit - Back 
+  description: "Package contents 1 Assembled 1U mounting bracket, 1 Instruction QR code, 1 Installation Hex Key, 1 Spare Screw, 2 Cage Nuts Black, 2 Rack Mount Screws Black" 
+  title: Package Contents
 - id: 5
   src: 5.jpg
-  description: "A picture of the side of a assembled unit with a Cloud Key Gen2 Plus Installed"
-  title: Assembled unit - Side View
-- id: 6
-  src: 6.jpg
   description: "Unit installed in a server rack with a Cloud Key Gen2 installed and powered on"
   title: Installed
+- id: 6
+  src: 6.jpg
+  description: "Packaging Front"
+  title: Package Front
 - id: 7
   src: 7.jpg
-  description: "Promotional Image of the unit with our favorite 3D llama"
-  title: Promotional Image
+  description: "Packaging Back"
+  title: Package Back
+- id: 8
+  src: 8.jpg
+  description: "A picture of the back of a assembled unit with a Cloud Key Gen2 Plus Installed"
+  title: Assembled unit - Back 
+- id: 9
+  src: 9.jpg
+  description: "A picture of the side of a assembled unit with a Cloud Key Gen2 Plus Installed"
+  title: Assembled unit - Side View
+
 specs:
   Colors: Black(Default), Gray(Discontinued) - Others available by request 
   Material: PETG
@@ -61,11 +70,13 @@ additional_links:
 revisions:
   - version: 1.0
     change_log: Initial release of the bracket. Packed in plastic bags. with all required hardware
+  - version: 1.1
+    change_log: Package into boxes with color labels and descriptive labels on the back. Available via Amazon Prime. Cage Nuts and Rack Screws added to product packaging. 
 ---
 
 Introducing our 3D printed Unifi Cloud Key G2 Plus 1U Bracket. This bracket allows you to mount your Cloud Key in a standard server rack. The brackets supports mounting on either the left or right side of the rack and takes up only 1U (1.75inches) inches of vertical space in your rack. The bracket is designed to be tight around your cloud key but also has both the top and bottom open to allow for open air cooling of the device.  
 
-\* Listing is for only the 3D Printed bracket. Cloud Key is not included. Mounting hardware for your rack is also not included. 
+\* Cloud Key is not included. Mounting hardware for standard server racks is included starting with version 1.1! 
 
 \*\* The pictured color for this mount is Dark Gray. This listing is for the bracket printed in Black. If you'd like to get a custom color, other than black, please reach out and we can custom print another color if we have it in stock.
 
