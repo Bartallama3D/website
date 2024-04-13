@@ -52,6 +52,8 @@ specs:
   Material: PETG
   Release Date: 2/11/2024
   Compatible Units: Apple Vision Pro (1st Generation)
+  Package Dimensions: 6 in x 3.5 in x 1.5 in (15.25 cm x 8.9 cm x 3.8cm)
+  Package Weight: 95 grams / 0.20 lbs / 3.35 oz
 additional_links:
   - text: Apple Vision Pro
     description: Apple's next-generation spacial computer
