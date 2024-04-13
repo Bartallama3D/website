@@ -16,6 +16,7 @@ bullet_points:
   - point: Mounts your radar detector on the center screen
   - point: Securely holds the radar detector
   - point: Mounts to your screen securely to prevent shifting while driving
+  - point: Integrated cable clips for clean cable management
   - point: Simple and quick assembly
 special_order: false
 customizeable: true
@@ -45,6 +46,8 @@ specs:
   Material: ABS
   Release Date: 10/19/2023
   Compatible Units: Valentine One V1Gen1 Radar (Replaced with V1Gen2 by Manufacturer)
+  Package Dimensions: 4.25 in x 4.25 in x 2 in (10.8 cm x 10.8 cm x 5cm)
+  Package Weight: 100 grams / 0.22 lbs / 3.5 oz
 additional_links:
 revisions:
   - version: 1.0

@@ -16,6 +16,7 @@ bullet_points:
   - point: Mounts your radar detector on the center screen
   - point: Securely holds the radar detector
   - point: Mounts to your screen securely to prevent shifting while driving
+  - point: Integrated cable clips for clean cable management
   - point: Simple and quick assembly
 special_order: false
 customizeable: true
@@ -40,12 +41,13 @@ images:
   src: 5.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
-
 specs:
-  Colors: Black(Default), Gray(Discontinued) - Others available by request 
+  Colors: Black(Default) - Others available by request 
   Material: ABS
   Release Date: 11/3/2023
   Compatible Units: Valentine One V1Gen2 Radar
+  Package Dimensions: 4.25 in x 4.25 in x 2 in (10.8 cm x 10.8 cm x 5cm)
+  Package Weight: 100 grams / 0.22 lbs / 3.5 oz
 additional_links:
   - text: V1Gen2 Radar
     description: Valentine One V1Gen Radar Detector
