@@ -8,7 +8,7 @@ cost: "30.00"
 image_thumbnail: 1.jpg
 description: Mount for a Radenso Pro M for a Tesla
 etsy_link: https://www.etsy.com/listing/1690123666/bartallama3d-radar-holder-for-radenso
-amazon_link: https://a.co/d/1kSEL5P
+amazon_link: https://a.co/d/iUD8w1j
 instruction_pdf: 11-Tesla-Radenso-Pro-M-Holder-Bartallama3D.pdf
 ebay_link: 
 youtube_link: 
