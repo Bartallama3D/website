@@ -7,12 +7,12 @@ name: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with Tesla
 cost: "30.00"
 image_thumbnail: 0.jpg
 description: Mount for a Escort Max 360 MKII for a Tesla
-etsy_link: 
-amazon_link: 
+etsy_link: https://www.etsy.com/listing/1726155719/bartallama3d-radar-holder-for-escort-max
+amazon_link: https://a.co/d/h8LlE9P
 instruction_pdf: 
 ebay_link: 
-youtube_link: 
-youtube_embed_link: 
+youtube_link: https://youtu.be/axVvq3LGbTo
+youtube_embed_link: https://www.youtube.com/embed/axVvq3LGbTo?si=tPv8BNgaCkPye_Ei
 bullet_points:
   - point: Mounts your radar detector on the center screen and Securely holds the radar detector
   - point: Integrated cable clips for clean cable management down the back of your screen
