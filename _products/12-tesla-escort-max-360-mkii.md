@@ -8,7 +8,7 @@ cost: "30.00"
 image_thumbnail: 0.jpg
 description: Mount for a Escort Max 360 MKII for a Tesla
 etsy_link: https://www.etsy.com/listing/1726155719/bartallama3d-radar-holder-for-escort-max
-amazon_link: https://a.co/d/h8LlE9P
+amazon_link: https://www.amazon.com/dp/B0D3C1K8J4
 instruction_pdf: 12-Tesla-Escort-Max-360-MKII-Holder-Bartallama3D.pdf
 ebay_link: https://www.ebay.com/itm/326115050964
 youtube_link: https://youtu.be/axVvq3LGbTo

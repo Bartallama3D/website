@@ -8,7 +8,7 @@ cost: "30.00"
 image_thumbnail: 0.jpg
 description: Mount your Cloud Key in your server rack
 etsy_link: https://www.etsy.com/listing/1693598255/unifi-cloud-key-g2-rackmount-bracket
-amazon_link: https://a.co/d/c4egJpy
+amazon_link: https://www.amazon.com/dp/B0D11RL5BQ
 ebay_link: 
 instruction_pdf: 7-Unifi-CloudKey-Gen2-1u-Bartallama3D.pdf
 youtube_link: https://youtu.be/yjBMcymp3E4

@@ -8,7 +8,7 @@ cost: "30.00"
 image_thumbnail: 0.jpg
 description: Apple Vision Pro Battery Holder w/Arm Band
 etsy_link: https://www.etsy.com/listing/1662692872/battery-holder-for-apple-vision-pro-with
-amazon_link: https://a.co/d/1pHOtJA
+amazon_link: https://www.amazon.com/dp/B0D1K6QHRH
 instruction_pdf: 10-AVP-Battery-Holder-Arm-Band-Bartallama3D.pdf
 ebay_link: 
 youtube_link: https://youtu.be/dqjmfi5wpcs

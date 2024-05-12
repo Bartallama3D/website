@@ -8,7 +8,7 @@ cost: "25.00"
 image_thumbnail: 0.jpg
 description: Apple Vision Pro Battery Holder w/Belt Clip
 etsy_link: https://www.etsy.com/listing/1657669270/battery-holder-for-apple-vision-pro-with
-amazon_link: https://a.co/d/0DsdZ3T
+amazon_link: https://www.amazon.com/dp/B0D1JPC4GM
 ebay_link: 
 instruction_pdf: 9-AVP-Battery-Holder-Belt-Clip-Bartallama3D.pdf
 youtube_link: https://youtu.be/X2-c9D0eOb0

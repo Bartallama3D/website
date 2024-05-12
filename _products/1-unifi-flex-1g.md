@@ -7,7 +7,7 @@ name: Bartallama3D™ Bracket for Unifi Flex Camera - 1-Gang
 cost: "16.00"
 image_thumbnail: 0.jpg
 etsy_link: https://www.etsy.com/listing/1502616954/premium-3d-printed-unifi-flex-camera
-amazon_link: https://a.co/d/c9Bvn4w
+amazon_link: https://www.amazon.com/dp/B0CSJSL18Q
 ebay_link: 
 youtube_link: https://youtu.be/dVAJbxSx2nc
 youtube_embed_link: https://www.youtube.com/embed/dVAJbxSx2nc
