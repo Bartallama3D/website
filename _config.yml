@@ -20,12 +20,13 @@ author: Bartallama3D
 ###############################################
 
 navbar-links:
-#  Shop: "https://shop.Bartallama3D.design"
   Products: "products"
 #  Services: "services"
 #  News: "news"
+  Online Store: "https://shop.Bartallama3D.design"
   Meet the Team: "team"
   About Me: "aboutme"
+  Merch: "https://bartallama3d.printify.me"
   
 
 ################
