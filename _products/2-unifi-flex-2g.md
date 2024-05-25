@@ -8,7 +8,7 @@ cost: "18.00"
 image_thumbnail: 0.jpg
 description: Mount for a Unfi Flex Camera that fits in a 2-Gang electrical enclosure
 etsy_link: https://www.etsy.com/listing/1622955484/unifi-flex-camera-bracket-2-gang
-amazon_link: https://a.co/d/aAXXIWQ
+amazon_link: https://www.amazon.com/dp/B0D2WPKXHW
 ebay_link: 
 youtube_link: https://youtu.be/dVAJbxSx2nc
 youtube_embed_link: https://www.youtube.com/embed/dVAJbxSx2nc

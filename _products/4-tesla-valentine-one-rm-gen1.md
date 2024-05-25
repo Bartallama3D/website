@@ -8,7 +8,7 @@ cost: "30.00"
 image_thumbnail: 0.jpg
 description: Mount for a Valentine One Gen1 for a Tesla
 etsy_link: https://www.etsy.com/listing/1560892594/valentine-one-mount-for-tesla-3d-printed
-amazon_link: https://www.amazon.com/dp/B0D1K3XJ5B
+amazon_link: https://www.amazon.com/dp/B0D1JS1NDK
 ebay_link: 
 youtube_link: https://youtu.be/UG_un0AYOsU
 youtube_embed_link: https://www.youtube.com/embed/UG_un0AYOsU

@@ -30,7 +30,7 @@ images:
   title: Assembled unit - left view
 - id: 2
   src: 2.jpg
-  description: "Mount comes with 3 3D printed parts, screws for assembly, a hex wrench and a alcohol cleaning pad"
+  description: "Mount comes with 3 3D printed parts, screws for assembly, a hex wrench and an alcohol cleaning pad"
   title: Package Contents
 - id: 3
   src: 3.jpg
