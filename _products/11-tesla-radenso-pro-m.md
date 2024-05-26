@@ -11,8 +11,8 @@ etsy_link: https://www.etsy.com/listing/1690123666/bartallama3d-radar-holder-for
 amazon_link: https://www.amazon.com/dp/B0D1K8Q2TZ
 instruction_pdf: 11-Tesla-Radenso-Pro-M-Holder-Bartallama3D.pdf
 ebay_link: 
-youtube_link: 
-youtube_embed_link: 
+youtube_link: https://youtu.be/2a7km9EHeAc
+youtube_embed_link: https://www.youtube.com/embed/2a7km9EHeAc
 bullet_points:
   - point: Mounts your radar detector on the center screen
   - point: Securely holds the radar detector

@@ -11,8 +11,8 @@ etsy_link:
 amazon_link: 
 instruction_pdf: 
 ebay_link: 
-youtube_link: 
-youtube_embed_link: 
+youtube_link: https://youtu.be/Qxh_l7snXEM
+youtube_embed_link: https://www.youtube.com/embed/Qxh_l7snXEM
 bullet_points:
   - point: Mounts your radar detector on the center screen and Securely holds the radar detector
   - point: Integrated cable clips for clean cable management down the back of your screen
