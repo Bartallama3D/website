@@ -74,6 +74,34 @@ page_name: Product Listing
           </div>
         </div>
       </div>
+      {% if page.compatible_vehicles %}
+      <div class="accordion-item">
+        <h2 class="accordion-header">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            data-bs-target="#flush-compatible-vehicles" aria-expanded="false" aria-controls="flush-compatible-vehicles">
+            Compatible Vehicles
+          </button>
+        </h2>
+        <div id="flush-compatible-vehicles" class="accordion-collapse collapse">
+          <div class="accordion-body"> 
+            <table class="table table-striped">
+              <thead>
+                <th>Vehicle Model</th>
+                <th>Model Years Supported</th>
+              </thead>
+              <tbody>
+                {% for vehicle_model in page.compatible_vehicles %}
+                <tr>
+                  <td>{{ vehicle_model[0] }}</td>
+                  <td>{{ vehicle_model[1] }}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      {% endif %}
       {% if page.additional_links %}
       <div class="accordion-item">
         <h2 class="accordion-header">
