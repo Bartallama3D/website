@@ -51,6 +51,8 @@ specs:
   Material: ABS
   Release Date: 03/27/2024
   Compatible Units: Radenso Pro M Radar
+  Package Dimensions: 4.25 in x 4.25 in x 2 in (10.8 cm x 10.8 cm x 5cm)
+  Package Weight: 100 grams / 0.22 lbs / 3.5 oz
 additional_links:
   - text: Radenso Pro M
     description: Radenso Pro M Radar Detector
@@ -67,4 +69,4 @@ Introducing the Bartallama3D™ Radar Holder for Radenso Pro M, designed specifi
 
 \*\* If you require a custom order, custom colors, or changes please reach out for assistance.
 
-\*\*\* Huge shout out to Radenso for providing a dummy unit to prototype and create this radar bracket. We appreciate the partnership! 
+\*\*\* Huge thank you to Radenso for providing a dummy unit to prototype and create this radar bracket. We appreciate the partnership! 
