@@ -57,6 +57,8 @@ specs:
   Material: ABS
   Release Date: 06/30/2024
   Compatible Units: Radenso DS1
+  Package Dimensions: 4.25 in x 4.25 in x 2 in (10.8 cm x 10.8 cm x 5cm)
+  Package Weight: 100 grams / 0.22 lbs / 3.5 oz
 additional_links:
   - text: Radenso DS1
     description: Radenso DS1 Radar Detector
