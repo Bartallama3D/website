@@ -45,6 +45,12 @@ specs:
   Material: ABS
   Release Date: 10/19/2023
   Compatible Units: Valentine One Concealed Display V1Gen1 / V1Gen2
+compatible_vehicles:
+  Tesla Model S: 2021 - 2025
+  Tesla Model 3: 2017 - 2025
+  Tesla Model X: 2022 - 2025
+  Tesla Model Y: 2020 - 2025
+  Tesla Cybertruck: 2024 - 2025
 additional_links:
   - text: V1Gen1 Display
     description: Valentine One Concealed Display for V1Gen1 Radar

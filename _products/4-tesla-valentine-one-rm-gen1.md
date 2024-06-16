@@ -48,7 +48,12 @@ specs:
   Compatible Units: Valentine One V1Gen1 Radar (Replaced with V1Gen2 by Manufacturer)
   Package Dimensions: 4.25 in x 4.25 in x 2 in (10.8 cm x 10.8 cm x 5cm)
   Package Weight: 100 grams / 0.22 lbs / 3.5 oz
-additional_links:
+compatible_vehicles:
+  Tesla Model S: 2021 - 2025
+  Tesla Model 3: 2017 - 2025
+  Tesla Model X: 2022 - 2025
+  Tesla Model Y: 2020 - 2025
+  Tesla Cybertruck: Contact Us! Modified part required.
 revisions:
   - version: 1.0
     change_log: Initial release of the bracket. Packed in plastic bags. 
