@@ -45,7 +45,7 @@ compatible_vehicles:
   Toyota Corolla: 2020 - 2024
   Toyota RAV4: 2019 - 2025
 additional_links:
-   - text: Radenso DS1
+  - text: Radenso DS1
     description: Radenso DS1 Radar Detector
     link: https://radenso.com/collections/radar-detectors/products/radenso-ds1
 revisions:
