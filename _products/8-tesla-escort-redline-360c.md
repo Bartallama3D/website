@@ -43,8 +43,8 @@ specs:
   Material: ABS
   Release Date: 3/10/2024
   Compatible Units: Escort Redline 360c
-  Package Dimensions: 4.25 in x 4.25 in x 2 in (10.8 cm x 10.8 cm x 5cm)
-  Package Weight: 100 grams / 0.22 lbs / 3.5 oz
+  Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
+  Package Weight: 90 grams / 0.2 lbs / 3.2 oz
 compatible_vehicles:
   Tesla Model S: 2021 - 2025
   Tesla Model 3: 2017 - 2025
