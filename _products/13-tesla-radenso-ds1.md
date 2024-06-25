@@ -8,7 +8,7 @@ cost: "30.00"
 image_thumbnail: thumb.jpg
 description: Mount for a Radenso DS1 for a Tesla
 etsy_link: 
-amazon_link: 
+amazon_link: https://www.amazon.com/dp/B0D7T9TBL7
 instruction_pdf: 
 ebay_link: 
 youtube_link: https://youtu.be/Qxh_l7snXEM
