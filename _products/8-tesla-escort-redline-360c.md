@@ -15,9 +15,10 @@ youtube_link: https://youtu.be/OWW1zFBKoYk
 youtube_embed_link: https://www.youtube.com/embed/OWW1zFBKoYk
 bullet_points:
   - point: Mounts your radar detector on the center screen
-  - point: Securely holds the radar detector
-  - point: Mounts to your screen securely to prevent shifting while driving
+  - point: Securely holds the radar detector to prevent shifting while driving
+  - point: Non-Permanent Installation, easily remove and stow radar when needed
   - point: Integrated cable clips for clean cable management down the back of your screen
+  - point: Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
   - point: Simple and quick assembly
 special_order: false
 customizeable: true
@@ -31,13 +32,13 @@ images:
   description: "Bracket comes with 3 3D printed parts, screws for assembly, a hex wrench, instruction sheet and a alcohol cleaning pad"
   title: Package contents
 - id: 3
-  src: 3.jpg
-  description: "Front view of the radar unit without the radar installed"
-  title: Unit view Front
-- id: 4
   src: 4.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
+- id: 4
+  src: Compatible-Vehicles-Table.jpg
+  description: "Table showing compatible vehicles for this radar unit and platform combination"
+  title: Compatible Vehicles Table
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
@@ -64,7 +65,7 @@ revisions:
     change_log: Moving away from 3M mounting tape in favor of a 3M rubber pad. This new pad still provides grip to the back of the screen but also allows for the radar to be removed and stowed. Upgrade packages will be provided for a short time as we transition from 1.1 -> 1.2. 
 ---
 
-3D Printed Escort Redline 360c Radar Mount for Tesla made from ABS. This mount allows you to mount a Escort Redline 360c Radar Detector to the center display screen of your Tesla. The mount is designed to hold the radar detector and prevent it from shifting while driving while also keeping it at eye level for easy visibility.
+3D Printed Escort Redline 360c Radar Mount for Tesla made from ABS. This mount allows you to mount a Escort Redline 360c Radar Detector to the center display screen of your Tesla. The mount is designed to hold the radar detector and prevent it from shifting while driving while also keeping it at eye level for easy visibility. The newer version of our radar holder features a Rubber pad, creating a non-permanent installation and allows you to easily remove your radar from the screen and stow it when needed. This new rubber pad still provides the same grip to prevent shifting of the radar unit while driving.
 
 This listing is for 1 mount and includes all parts needed for assembly and installation.
 

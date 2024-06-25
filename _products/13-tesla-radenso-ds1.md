@@ -52,6 +52,10 @@ images:
   src: 7.jpg
   description: "View of the Radenso DS1 installed in the bracket mounted in a Tesla"
   title: In Car View - Top Front
+- id: 8
+  src: Compatible-Vehicles-Table.jpg
+  description: "Table showing compatible vehicles for this radar unit and platform combination"
+  title: Compatible Vehicles Table
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
