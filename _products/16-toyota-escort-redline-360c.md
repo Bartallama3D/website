@@ -7,17 +7,18 @@ name: Bartallama3D™ Radar Holder for Escort Redline 360c compatible with some 
 cost: "30.00"
 image_thumbnail: thumb.jpg
 description: Mount for a Escort Redline 360c for some Toyota Vehicles
-etsy_link: 
-amazon_link: 
+etsy_link: https://www.etsy.com/listing/1739251520/bartallama3d-radar-holder-for-escort
+amazon_link: https://www.amazon.com/dp/B0D7T9MC8S
 instruction_pdf: 
 ebay_link: 
 youtube_link: 
 youtube_embed_link: 
 bullet_points:
   - point: Mounts your radar detector on the center screen and Securely holds the radar detector
+  - point: Non-Permanent Installation, rubber bumper for snug fit and easy removal for storage
   - point: Integrated cable clips for clean cable management down the back of your screen
+  - point: Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
   - point: Simple and quick assembly
-  - point: Rubber bumper for snug fit and easy removal for storage
 special_order: false
 customizeable: true
 images:

@@ -7,7 +7,7 @@ name: Bartallama3D™ Radar Holder for Radenso DS1 compatible with Tesla Vehicle
 cost: "30.00"
 image_thumbnail: thumb.jpg
 description: Mount for a Radenso DS1 for a Tesla
-etsy_link: 
+etsy_link: https://www.etsy.com/listing/1739250400/bartallama3d-radar-holder-for-radenso
 amazon_link: https://www.amazon.com/dp/B0D7T9TBL7
 instruction_pdf: 
 ebay_link: 

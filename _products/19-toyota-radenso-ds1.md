@@ -7,17 +7,18 @@ name: Bartallama3D™ Radar Holder for Radenso DS1 compatible with some Toyota V
 cost: "30.00"
 image_thumbnail: thumb.jpg
 description: Mount for a Radenso DS1 for some Toyota Vehicles
-etsy_link: 
-amazon_link: 
+etsy_link: https://www.etsy.com/listing/1753443915/bartallama3d-radar-holder-for-radenso
+amazon_link: https://www.amazon.com/dp/B0D7T959FD
 instruction_pdf: 
 ebay_link: 
 youtube_link: 
 youtube_embed_link: 
 bullet_points:
   - point: Mounts your radar detector on the center screen and Securely holds the radar detector
+  - point: Non-Permanent Installation, rubber bumper for snug fit and easy removal for storage
   - point: Integrated cable clips for clean cable management down the back of your screen
+  - point: Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
   - point: Simple and quick assembly
-  - point: Rubber bumper for snug fit and easy removal for storage
 special_order: false
 customizeable: true
 images:
@@ -59,4 +60,4 @@ Introducing the Bartallama3D™ Radar Holder for the Radenso DS1, designed speci
 
 \*\* If you require a custom order, custom colors, or changes please reach out for assistance.
 
-\*\*\* Huge thank you to Radenso for providing a dummy unit to prototype and create this radar bracket. We appreciate the partnership! 
+\*\*\* Huge thank you to Radenso for providing a unit to prototype and create this radar bracket. We appreciate the partnership! 
