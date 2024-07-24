@@ -25,10 +25,6 @@ images:
   src: 1.jpg
   description: "Bracket comes with 3 3D printed parts, screws for assembly, a hex wrench and a alcohol cleaning pad"
   title: Package contents
-- id: 2
-  src: 2.jpg
-  description: A picture of the assembled unit with installed Valentine One Gen1 unit
-  title: Assembled with Radar
 - id: 3
   src: 3.jpg
   description: "Image showing the V1Gen1 radar it is compatible with"
