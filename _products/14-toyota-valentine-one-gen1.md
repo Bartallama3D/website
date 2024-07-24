@@ -26,10 +26,6 @@ images:
   src: 0.jpg
   description: "A picture of the assembled unit from the front with installed Valentine One Gen1 unit"
   title: Assembled with Radar - Front View
-- id: 2
-  src: 2.jpg
-  description: A picture of the assembled unit with installed Valentine One Gen1 unit
-  title: Assembled with Radar
 - id: 3
   src: 3.jpg
   description: "Image showing the V1Gen1 radar it is compatible with"
