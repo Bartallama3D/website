@@ -41,6 +41,14 @@ images:
   src: 5.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
+- id: 6
+  src: 6.jpg
+  description: "Photo of our packing for radar mounts"
+  title: Product Box Photo
+- id: 7
+  src: Compatible-Vehicles-Table.jpg
+  description: "Compatible Vehicles Table Photo"
+  title: Compatible Vehicles Table
 specs:
   Colors: Black(Default), Gray(Discontinued) - Others available by request 
   Material: ABS

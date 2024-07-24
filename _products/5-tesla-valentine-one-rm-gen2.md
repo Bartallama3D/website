@@ -21,10 +21,6 @@ bullet_points:
 special_order: false
 customizeable: true
 images:
-- id: 1
-  src: 1.jpg
-  description: "A picture of the assembled unit"
-  title: Assembled unit
 - id: 2
   src: 2.jpg
   description: "Bracket comes with 3 3D printed parts, screws for assembly, a hex wrench and a alcohol cleaning pad"
@@ -41,6 +37,14 @@ images:
   src: 5.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
+- id: 6
+  src: 6.jpg
+  description: "Photo of our packing for radar mounts"
+  title: Product Box Photo
+- id: 7
+  src: Compatible-Vehicles-Table.jpg
+  description: "Compatible Vehicles Table Photo"
+  title: Compatible Vehicles Table
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
