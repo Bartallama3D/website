@@ -23,17 +23,21 @@ special_order: false
 customizeable: true
 images:
 - id: 0
-  src: 0.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/0.jpg
   description: "A picture of the assembled unit with installed Escort Max 360 MKII unit"
   title: Assembled with Radar
 - id: 1
-  src: 1.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/1.jpg
   description: A picture of the assembled unit with installed Escort Max 360 MKII from - left view
   title: Assembled unit - left view
 - id: 6
-  src: 6.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/6.jpg
   description: "Image of the bottom of the unit showing the cable clips"
   title: Cable Clips
+- id: 7
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/7.jpg
+  description: This radar holder is only compatible with the Escort Max 360 MKII . It was designed around the unique shape of the Escort Max 360 MKII and only fits that specific radar unit perfectly. 
+  title: Compatible Radar Units
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
