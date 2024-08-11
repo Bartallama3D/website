@@ -5,7 +5,7 @@ product_id: 12-tesla-escort-max-360-mkii
 product_id_int: 12
 name: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with Tesla Vehicles
 cost: "30.00"
-image_thumbnail: 0.jpg
+cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/1.jpg
 description: Mount for a Escort Max 360 MKII for a Tesla
 etsy_link: https://www.etsy.com/listing/1726155719/bartallama3d-radar-holder-for-escort-max
 amazon_link: https://www.amazon.com/dp/B0D3C1K8J4
@@ -15,39 +15,49 @@ youtube_link: https://youtu.be/axVvq3LGbTo
 youtube_embed_link: https://www.youtube.com/embed/axVvq3LGbTo?si=tPv8BNgaCkPye_Ei
 bullet_points:
   - point: Mounts your radar detector on the center screen and Securely holds the radar detector
+  - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - point: Integrated cable clips for clean cable management down the back of your screen
+  - point: Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
   - point: Simple and quick assembly
 special_order: false
 customizeable: true
 images:
 - id: 0
-  src: 0.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/0.jpg
   description: "A picture of the assembled unit with installed Escort Max 360 MKII unit"
   title: Assembled with Radar
 - id: 1
-  src: 1.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/1.jpg
   description: A picture of the assembled unit with installed Escort Max 360 MKII from - left view
   title: Assembled unit - left view
 - id: 2
-  src: 2.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/2.jpg
   description: "Mount comes with 3 3D printed parts, screws for assembly, a hex wrench and an alcohol cleaning pad"
   title: Package Contents
 - id: 3
-  src: 3.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/3.jpg
   description: "View of the Escort Max 360 MKII installed in the bracket in a Tesla"
   title: In Car View
 - id: 4
-  src: 4.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/4.jpg
   description: "View of the Escort Max 360 MKII installed in the bracket in a Tesla"
   title: In Car View
 - id: 5
-  src: 5.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/5.jpg
   description: "Side view of the Escort Max 360 MKII installed in the bracket in a Tesla"
   title: In Car side view
 - id: 6
-  src: 6.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/6.jpg
   description: "Image of the bottom of the unit showing the cable clips"
   title: Cable Clips
+- id: 7
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/7.jpg
+  description: This radar holder is only compatible with the Escort Max 360 MKII . It was designed around the unique shape of the Escort Max 360 MKII and only fits that specific radar unit perfectly. 
+  title: Compatible Radar Units
+- id: 8
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/Compatible-Vehicles-Table.jpg
+  description:  This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle. Cybertrucks require a different screen backer part and can be requested at purchase. 
+  title: Compatible Vehicles Table
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS

@@ -11,7 +11,7 @@ layout: page
   <div class="col">
     <div class="card">
       <a href="/products/{{ product.product_id }}"><img class="card-img-top" alt="photo of {{ product.name }}"
-          src="/assets/img/listing-photos/{{product.product_id}}/thumb.jpg"></a>
+          src="{% if product.cf_image_thumbnail %}{{ product.cf_image_thumbnail }}{% else %}/assets/img/listing-photos/{{product.product_id}}/thumb.jpg{% endif %}"></a>
       <div class="card-body">
         <h5 class="card-title">{{ product.name }}</h5>
         <p class="card-text">{{ product.description }}

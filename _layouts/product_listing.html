@@ -6,7 +6,7 @@ page_name: Product Listing
 <div class="container">
   <div class="row">
     <div class="col-5">
-      <img src="/assets/img/listing-photos/{{ page.product_id }}/{{ page.image_thumbnail }}" alt="Product photo of the {{ page.name }}">
+      <img src="{% if page.cf_image_thumbnail %}{{ page.cf_image_thumbnail }}{% else %}/assets/img/listing-photos/{{ page.product_id }}/{{ page.image_thumbnail }}{% endif %}" alt="Product photo of the {{ page.name }}">
     </div>
     <div class="col-7">
       <h2>{{ page.name }}</h2>
@@ -181,8 +181,9 @@ page_name: Product Listing
     <h2>Additional Photos:</h2>
     {% for image in page.images %}
     <div class="col-3">
-      <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#image-modal-{{image.id}}" aria-label="This image opens a popup with the description {{ image.description }}"><img
-          src="/assets/img/listing-photos/{{ page.product_id }}/{{ image.src }}" alt="{{ image.description }}"></button>
+      <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#image-modal-{{image.id}}" aria-label="This image opens a popup with the description {{ image.description }}">
+        <img
+          src="{% if image.cf_src %}{{ image.cf_src }}{% elsif image.src %}/assets/img/listing-photos/{{ page.product_id }}/{{ image.src }}{% endif %}" alt="{{ image.description }}"></button>
     </div>
     <!-- Modal -->
     <div class="modal fade" id="image-modal-{{image.id}}" tabindex="-1" aria-labelledby="image-modal-{{image.id}}"
@@ -194,7 +195,11 @@ page_name: Product Listing
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <img src="/assets/img/listing-photos/{{ page.product_id }}/{{ image.src }}"><br />
+            {% if image.cf_src %}
+              <img src="{{ image.cf_src }}"><br />
+            {% elsif image.src %}
+              <img src="/assets/img/listing-photos/{{ page.product_id }}/{{ image.src }}"><br />
+            {% endif %}
             {{ image.description }}
           </div>
           <div class="modal-footer">
