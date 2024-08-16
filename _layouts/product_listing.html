@@ -23,6 +23,10 @@ page_name: Product Listing
         <a href="/assets/instuction_pdfs/{{ page.instruction_pdf }}"><button class="btn btn-md btn-primary bs-btn-color:"
             style="--bs-btn-bg: #232F3E; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #FF9900 "><i
               class="fas fa-book"></i> Instruction Manual</button></a>{% endif %}
+        {% if page.cf_instruction_pdf %}
+        <a href="{{ page.cf_instruction_pdf }}"><button class="btn btn-md btn-primary bs-btn-color:"
+            style="--bs-btn-bg: #232F3E; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #FF9900 "><i
+              class="fas fa-book"></i> Instruction Manual</button></a>{% endif %}
         {% if page.etsy_link %}
         <a href="{{ page.etsy_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
           style="--bs-btn-bg: #D5641C; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #F5641C "><i

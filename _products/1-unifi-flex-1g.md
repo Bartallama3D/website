@@ -7,8 +7,8 @@ name: Bartallama3D™ Bracket for Unifi Flex Camera - 1-Gang
 cost: "16.00"
 image_thumbnail: 0.jpg
 etsy_link: https://www.etsy.com/listing/1502616954/premium-3d-printed-unifi-flex-camera
-amazon_link: https://www.amazon.com/dp/B0CSJSL18Q
-ebay_link: 
+amazon_link: https://www.amazon.com/dp/B0DCTZWTWN
+ebay_link: https://www.ebay.com/itm/325964168260
 youtube_link: https://youtu.be/dVAJbxSx2nc
 youtube_embed_link: https://www.youtube.com/embed/dVAJbxSx2nc
 bullet_points:
@@ -50,6 +50,8 @@ specs:
   Material: PETG
   Compatible Cameras: Unifi Flex G3 and G5
   Release Date: 7/5/2023
+  Package Dimensions: 3.25 in x 5 in x 1 in (8.3 cm x 12.7 cm x 2.6cm) [HxWxD]
+  Package Weight: 60 grams / 0.15 lbs / 2.2 oz
 additional_links:
   - text: Low Voltage Bracket
     description: Compatible Low-Voltage Bracket (HomeDepot)

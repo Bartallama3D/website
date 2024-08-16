@@ -7,10 +7,10 @@ name: Bartallama3D™ Radar Holder for Escort Max 360 compatible with Tesla Vehi
 cost: "30.00"
 cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/1.jpg
 description: Mount for a Escort Max 360 for a Tesla
-etsy_link: 
-amazon_link: 
-instruction_pdf: 
-ebay_link: 
+etsy_link: https://www.etsy.com/listing/1764951300/escort-max-360-tesla-radar-holder-by?ref=listings_manager_grid
+amazon_link: https://www.amazon.com/dp/B0DCTKRX63
+instruction_pdf:
+ebay_link: https://www.ebay.com/itm/326234963782
 youtube_link: 
 youtube_embed_link:
 bullet_points:
@@ -76,3 +76,5 @@ Introducing the Bartallama3D™ Radar Holder for Escort Max 360, designed specif
 \* Escort Max 360 Radar Detector not included
 
 \*\* If you require a custom order, custom colors, or changes please reach out for assistance.
+
+\*\*\* We are not affiliated with, collaborating with, or endorsed by Escort. This product is a 3D Printed, custom designed accessory.
