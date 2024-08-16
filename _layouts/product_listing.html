@@ -27,6 +27,10 @@ page_name: Product Listing
         <a href="{{ page.cf_instruction_pdf }}"><button class="btn btn-md btn-primary bs-btn-color:"
             style="--bs-btn-bg: #232F3E; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #FF9900 "><i
               class="fas fa-book"></i> Instruction Manual</button></a>{% endif %}
+        {% if page.amazon_link %}
+        <a href="{{ page.amazon_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
+            style="--bs-btn-bg: #FF9900; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #FF9900 "><i
+              class="fab fa-amazon"></i> Buy on Amazon</button></a>{% endif %}
         {% if page.etsy_link %}
         <a href="{{ page.etsy_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
           style="--bs-btn-bg: #D5641C; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #F5641C "><i
@@ -35,10 +39,7 @@ page_name: Product Listing
             <a href="{{ page.ebay_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
           style="--bs-btn-bg: #0064D2; --bs-btn-hover-bg: #86B817; --bs-btn-border-color: #0064D2 "><i
             class="fab fa-ebay"></i> Buy on Ebay</button></a>{% endif %}
-        {% if page.amazon_link %}
-            <a href="{{ page.amazon_link }}"><button class="btn btn-md btn-primary bs-btn-color:"
-          style="--bs-btn-bg: #FF9900; --bs-btn-hover-bg: #232F3E; --bs-btn-border-color: #FF9900 "><i
-            class="fab fa-amazon"></i> Buy on Amazon</button></a>{% endif %}
+        
         
     </div>
   </div>
