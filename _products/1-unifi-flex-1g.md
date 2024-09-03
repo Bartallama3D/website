@@ -66,6 +66,8 @@ revisions:
     change_log: Adjustments to bracket for easier 3D printing resulting in less waste
   - version: 1.2
     change_log: Added Bartallama3D logo to camera and further enhanced printing. Camera now comes in 1,2,3,4, and 5 packs and is packed in cardboard boxes with all required parts.
+  - version: 1.3
+    change_log: New full color packaging. Product has not changed.  
     final: true
 description: Mount for a Unfi Flex Camera that fits in a 1-Gang electrical enclosure
 special_order: false
