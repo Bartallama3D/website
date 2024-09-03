@@ -23,12 +23,12 @@ special_order: false
 customizeable: true
 images:
 - id: 0
-  src: 0.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/5-tesla-valentine-one-rm-gen2/0.jpg
   description: "A picture of the assembled unit from the front with installed Valentine One Gen2 unit"
   title: Assembled with Radar - Front View
 - id: 3
-  src: 3.jpg
-  description: "Image showing the V1Gen1 radar it is compatible with"
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/5-tesla-valentine-one-rm-gen2/3.jpg
+  description: "Image showing the V1Gen2 radar it is compatible with"
   title: Compatibility Chart
 specs:
   Colors: Black(Default) - Others available by request 
