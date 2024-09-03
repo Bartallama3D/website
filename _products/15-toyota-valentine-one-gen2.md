@@ -5,7 +5,7 @@ product_id: 15-toyota-valentine-one-gen2
 product_id_int: 15
 name: Bartallama3D™ Radar Holder for Valentine One 2nd Generation compatible with some Toyota Vehicles
 cost: "30.00"
-image_thumbnail: thumb.jpg
+cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/5-tesla-valentine-one-rm-gen2/0.jpg
 description: Mount for a Valentine One Gen2 for some Toyota Vehicles
 etsy_link: https://www.etsy.com/listing/1739251236/bartallama3d-radar-holder-for-valentine
 amazon_link: https://www.amazon.com/dp/B0D7T94461
