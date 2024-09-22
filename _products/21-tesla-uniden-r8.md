@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Radar Holder for Uniden R8 compatible with Telsa Vehicles
 product_id: 21-tesla-uniden-r8
 product_id_int: 21
+hidden: false
 name: Bartallama3D™ Radar Holder for Uniden R8 compatible with Telsa Vehicles
 cost: "30.00"
 cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/1.jpg

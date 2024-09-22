@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with Tesla Vehicles
 product_id: 12-tesla-escort-max-360-mkii
 product_id_int: 12
+hidden: false
 name: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with Tesla Vehicles
 cost: "30.00"
 cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/1.jpg

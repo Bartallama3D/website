@@ -1,12 +1,13 @@
 ---
 layout: product_listing
-title: Bartallama3D™ Radar Holder for Valentine One Gen2 compatible with Tesla Vehicles
+title: Bartallama3D™ Radar Holder for Valentine One 2nd Generation compatible with Tesla Vehicles
 product_id: 5-tesla-valentine-one-rm-gen2
 product_id_int: 5
-name: Bartallama3D™ Radar Holder for Valentine One Gen2 compatible with Tesla Vehicles
+hidden: false
+name: Bartallama3D™ Radar Holder for Valentine One 2nd Generation compatible with Tesla Vehicles
 cost: "30.00"
 cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/5-tesla-valentine-one-rm-gen2/0.jpg
-description: Mount for a Valentine One Gen2 for a Tesla
+description: Mount for a Valentine One 2nd Generation for a Tesla
 etsy_link: https://www.etsy.com/listing/1767564861/valentine-one-2nd-generation-tesla-radar
 amazon_link: https://www.amazon.com/dp/B0CZTHNWD2
 ebay_link: https://www.ebay.com/itm/326255867444
@@ -49,7 +50,7 @@ specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
   Release Date: 11/3/2023
-  Compatible Units: Valentine One V1Gen2 Radar
+  Compatible Units: Valentine One 2nd Generation Radar
   Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
   Package Weight: 90 grams / 0.2 lbs / 3.2 oz
 compatible_vehicles:
@@ -59,8 +60,8 @@ compatible_vehicles:
   Tesla Model Y: 2020 - 2025
   Tesla Cybertruck: Contact Us! Modified part required.
 additional_links:
-  - text: V1Gen2 Radar
-    description: Valentine One V1Gen Radar Detector
+  - text: Valentine One 2nd Generation Radar Unit
+    description: Valentine One 2nd Generation Radar Detector
     link: https://store.valentine1.com/Store/item.asp?i=20020
 revisions:
   - version: 1.0

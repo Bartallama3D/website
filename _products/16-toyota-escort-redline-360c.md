@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Radar Holder for Escort Redline 360c compatible with some Toyota Vehicles
 product_id: 16-toyota-escort-redline-360c
 product_id_int: 16
+hidden: true
 name: Bartallama3D™ Radar Holder for Escort Redline 360c compatible with some Toyota Vehicles
 cost: "30.00"
 image_thumbnail: thumb.jpg

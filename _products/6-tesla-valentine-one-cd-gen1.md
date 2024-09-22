@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Concealed Display Mount for Valentine One Gen1 compatible with Tesla Vehicles
 product_id: 6-tesla-valentine-one-cd-gen1
 product_id_int: 6
+hidden: false
 name: Bartallama3D™ Concealed Display Mount for Valentine One Gen1 compatible with Tesla Vehicles
 cost: "15.00"
 image_thumbnail: 0.jpg

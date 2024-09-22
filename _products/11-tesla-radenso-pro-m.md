@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Radar Holder for Radenso Pro M compatible with Tesla Vehicles
 product_id: 11-tesla-radenso-pro-m
 product_id_int: 11
+hidden: false
 name: Bartallama3D™ Radar Holder for Radenso Pro M compatible with Tesla Vehicles
 cost: "30.00"
 image_thumbnail: 1.jpg

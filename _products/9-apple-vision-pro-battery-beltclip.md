@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Battery Holder Case for Apple Vision Pro w/Belt Clip
 product_id: 9-apple-vision-pro-battery-beltclip
 product_id_int: 9
+hidden: false
 name: Bartallama3D™ Battery Holder Case for Apple Vision Pro w/Belt Clip
 cost: "25.00"
 image_thumbnail: 0.jpg

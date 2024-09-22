@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign products = paginator.products | default: site.products | sort: "product_id_int" %}
+{% assign products = paginator.products | default: site.products | where:"hidden","false" | sort: "product_id_int" %}
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
   {% for product in products %}

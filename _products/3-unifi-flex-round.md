@@ -3,6 +3,7 @@ layout: product_listing
 product_id: 3-unifi-flex-round
 title: Bartallama3D™ Bracket for Unifi Flex Camera - Round
 product_id_int: 3
+hidden: false
 name: Bartallama3D™ Bracket for Unifi Flex Camera - Round
 cost: "20.00"
 image_thumbnail: 0.jpg

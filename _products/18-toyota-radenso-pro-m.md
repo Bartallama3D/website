@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Radar Holder for Radenso Pro M compatible with some Toyota Vehicles
 product_id: 18-toyota-radenso-pro-m
 product_id_int: 18
+hidden: true
 name: Bartallama3D™ Radar Holder for Radenso Pro M compatible with some Toyota Vehicles
 cost: "30.00"
 image_thumbnail: thumb.jpg

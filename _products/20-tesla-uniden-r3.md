@@ -1,9 +1,10 @@
 ---
 layout: product_listing
-title: Bartallama3D™ Radar Holder for Uniden R3 compatible with Telsa Vehicles
+title: Bartallama3D™ Radar Holder for Uniden R1 or R3 compatible with Telsa Vehicles
 product_id: 20-tesla-uniden-r3
 product_id_int: 20
-name: Bartallama3D™ Radar Holder for Uniden R3 compatible with Telsa Vehicles
+hidden: false
+name: Bartallama3D™ Radar Holder for Uniden R1 or R3 compatible with Telsa Vehicles
 cost: "30.00"
 cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/1.jpg
 description: Mount for a Uniden R3 for Tesla Vehicles
@@ -50,7 +51,7 @@ specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
   Release Date: 08/10/2024
-  Compatible Units: Uniden R3 Only
+  Compatible Units: Uniden R1 or Uniden R3
   Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
   Package Weight: 90 grams / 0.2 lbs / 3.2 oz
 compatible_vehicles:

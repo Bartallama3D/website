@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with some Toyota Vehicles
 product_id: 17-toyota-escort-max-360-mkii
 product_id_int: 17
+hidden: true
 name: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with some Toyota Vehicles
 cost: "30.00"
 cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/1.jpg

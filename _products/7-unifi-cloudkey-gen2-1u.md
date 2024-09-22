@@ -3,6 +3,7 @@ layout: product_listing
 title: Bartallama3D™ 1U Rackmount bracket for Unifi Cloud Key G2
 product_id: 7-unifi-cloudkey-gen2-1u
 product_id_int: 7
+hidden: false
 name: Bartallama3D™ 1U Rackmount bracket for Unifi Cloud Key G2
 cost: "30.00"
 image_thumbnail: 0.jpg
