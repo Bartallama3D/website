@@ -8,10 +8,10 @@ name: Bartallama3D™ Radar Holder for Escort Max 360 compatible with C8 Corvett
 cost: "30.00"
 cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/26-c8-escort-max-360-mkii/1.jpg
 description: Precision fit radar holder for an Escort Max 360 MKII designed to fit the C8 Corvette
-etsy_link: 
-amazon_link: 
+etsy_link: https://bartallama3d.etsy.com/listing/1784622648/escort-max-360-mkii-corvette-c8-radar
+amazon_link: https://www.amazon.com/dp/B0DHR3B8K2
 instruction_pdf:
-ebay_link: 
+ebay_link: https://www.ebay.com/itm/326279900156
 youtube_link: 
 youtube_embed_link:
 bullet_points:

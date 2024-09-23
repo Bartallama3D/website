@@ -6,7 +6,7 @@ product_id_int: 4
 hidden: false
 name: Bartallama3D™ Radar Holder for Valentine One Gen1 compatible with Tesla Vehicles
 cost: "30.00"
-image_thumbnail: 0.jpg
+cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/0.jpg
 description: Mount for a Valentine One Gen1 for a Tesla
 etsy_link: https://www.etsy.com/listing/1560892594/valentine-one-mount-for-tesla-3d-printed
 amazon_link: https://www.amazon.com/dp/B0D1JS1NDK
@@ -14,36 +14,36 @@ ebay_link:
 youtube_link: https://youtu.be/UG_un0AYOsU
 youtube_embed_link: https://www.youtube.com/embed/UG_un0AYOsU
 bullet_points:
-  - point: Mounts your radar detector on the center screen
-  - point: Securely holds the radar detector
-  - point: Mounts to your screen securely to prevent shifting while driving
-  - point: Integrated cable clips for clean cable management
+  - point: Mounts your radar detector on the center screen and Securely holds the radar detector
+  - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
+  - point: Integrated cable clips for clean cable management down the back of your screen
+  - point: Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
   - point: Simple and quick assembly
 special_order: false
 customizeable: true
 images:
 - id: 1
-  src: 1.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/1.jpg
   description: "Bracket comes with 3 3D printed parts, screws for assembly, a hex wrench and a alcohol cleaning pad"
   title: Package contents
 - id: 3
-  src: 3.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/3.jpg
   description: "Image showing the V1Gen1 radar it is compatible with"
   title: Compatibility Chart
 - id: 4
-  src: 4.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/4.jpg
   description: "Front view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Front View
 - id: 5
-  src: 5.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/5.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
 - id: 6
-  src: 6.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/6.jpg
   description: "Photo of our packing for radar mounts"
   title: Product Box Photo
 - id: 7
-  src: Compatible-Vehicles-Table.jpg
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/Compatible-Vehicles-Table.jpg
   description: "Compatible Vehicles Table Photo"
   title: Compatible Vehicles Table
 specs:

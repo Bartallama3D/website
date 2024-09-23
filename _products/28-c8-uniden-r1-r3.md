@@ -8,10 +8,10 @@ name: Bartallama3D™ Radar Holder for Uniden R1 or R3 compatible with C8 Corvet
 cost: "30.00"
 cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/28-c8-uniden-r1-r3/1.jpg
 description: Precision fit radar holder for a Uniden R1 or R3 designed to fit the C8 Corvette
-etsy_link: 
-amazon_link: 
+etsy_link: https://bartallama3d.etsy.com/listing/1798823509/uniden-r1-or-r3-corvette-c8-radar-holder
+amazon_link: https://www.amazon.com/dp/B0DHR4HC7R
 instruction_pdf:
-ebay_link: 
+ebay_link: https://www.ebay.com/itm/326279901836
 youtube_link: 
 youtube_embed_link:
 bullet_points:
