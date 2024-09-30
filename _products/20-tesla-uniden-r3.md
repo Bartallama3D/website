@@ -27,26 +27,47 @@ images:
   cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/1.jpg
   description: A picture of the assembled unit from the left with installed Uniden R3 radar unit
   title: Assembled unit - left view
+
 - id: 2
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/2.jpg
-  description: Radar holder installed in a Tesla with Uniden Radar unit installed from the left
-  title: Car view - Left
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/11.jpg
+  description: Photo of what's included in the box
+  title: What's Included
+
 - id: 3
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/3.jpg
-  description: Radar holder installed in a Tesla with Uniden Radar unit installed from the top
-  title: Car view - Top
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/21.jpg
+  description: This radar holder is only compatible with the Uniden R1 or R3. It was designed around the unique shape of the R1 and R3 and only fits those specific radar units perfectly.
+  title: Radar Compatibility Warning
+
 - id: 4
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/4.jpg
-  description:  Radar holder installed in a Tesla with Uniden Radar unit installed showing the side profile with cable clips
-  title: Car view - Side Profile
-- id: 5
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/5.jpg
-  description:  This radar holder is only compatible with the Uniden R3. It was designed around the unique shape of the R3 and only fits that specific radar unit perfectly. 
-  title: Compatible Radar Units
-- id: 6
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/Compatible-Vehicles-Table.jpg
-  description:  This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle. Cybertrucks require a different screen backer part and can be requested at purchase. 
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/22.jpg
+  description: This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle. Cybertrucks require a different screen backer part and can be requested at purchase. 
   title: Compatible Vehicles Table
+
+- id: 5
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/31.jpg
+  description: Radar holder installed in a Tesla with Uniden Radar unit installed
+  title: Car view - Front
+
+- id: 6
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/32.jpg
+  description: Radar holder installed in a Tesla with Uniden Radar unit installed, top view
+  title: Car view - Top
+
+- id: 7
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/33.jpg
+  description: Radar holder installed in a Tesla with Uniden Radar unit installed showing the side profile with cable clips
+  title: Car view - Side Profile
+
+- id: 8
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/61.jpg
+  description: A photo of our packaging from the front
+  title: Box - Front
+
+- id: 9
+  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesla-uniden-r3/62.jpg
+  description: A photo of our packaging from the back
+  title: Box - Back
+  
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
@@ -69,10 +90,31 @@ revisions:
     change_log: Initial release of the holder.
 ---
 
-Introducing the Bartallama3D™ Radar Holder for the Uniden R3, designed specifically for Tesla vehicles. This sleek mount securely holds your radar detector on the center screen, ensuring it stays in place while driving. The holder features integrated cable clips for clean cable management, simple assembly, and a secure fit to prevent shifting. The installation of this radar holder is non-permanent, enabling simple removal and stowage when needed. 
+Introducing the Bartallama3D™ Radar Holder for the Uniden R1 or R3 radar detectors. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a Tesla screen. This radar holder is not compatible with any other vehicles. 
 
-\* Uniden R3 Radar Detector not included
+Key Features:
+- Mounts your radar detector on the center screen and securely holds the radar detector
+- Non-Permanent Installation, easily remove and stow radar when needed
+- Integrated cable clips for clean cable management down the back of your screen
+- Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
+- Designed specifically for Teslas for a clean and precise fit
+- Simple and quick assembly
 
-\*\* If you require a custom order, custom colors, or changes please reach out for assistance.
+This package includes:
+- Custom precise fit holder for a Uniden R1 or R3 radar detector
+- 2 piece radar platform designed for a precision fit on Tesla vehicles
+- Screws + tools for assembly
+- Instruction QR code
 
-\*\*\* We are not affiliated with, collaborating with, or endorsed by Uniden. This product is a 3D Printed, custom designed accessory.
+Compatible Vehicles:
+- Model S: 2021 - 2025
+- Model 3: 2017 - 2025
+- Model X: 2022 - 2025
+- Model Y: 2020 - 2025
+- Cybertruck: 2025 (Requires a different screen backer. We sell this option on Etsy and Ebay)
+
+The assembly and installation of this radar mount is similar to our Valentine One Radar mount for Teslas. A YouTube video featuring our 1st iteration of this radar mount could be found here: https://youtu.be/UG_un0AYOsU
+
+* Please note, we have updated our radar holders since this first iteration video with new features. Leveraging the advanced capabilities of 3D printing, we can iterate on product designs quickly, allowing us to incorporate new features into our radar units without lengthy cycles. This ensures that our products remain at the forefront of innovation and meet the evolving needs of our customers. As our products are constantly evolving, we take feedback very seriously, so if you have any ideas on how this product could be improved, please send us a note!
+
+Disclaimer: We are not affiliated with, collaborating with, or endorsed by Uniden. This product is a 3D Printed, custom designed accessory.
