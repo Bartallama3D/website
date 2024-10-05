@@ -10,7 +10,7 @@ image_thumbnail: thumb.jpg
 description: Mount for a Radenso DS1 for a Tesla
 etsy_link: https://www.etsy.com/listing/1739250400/bartallama3d-radar-holder-for-radenso
 amazon_link: https://www.amazon.com/dp/B0D7T9TBL7
-instruction_pdf: 
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: 
 youtube_link: https://youtu.be/Qxh_l7snXEM
 youtube_embed_link: https://www.youtube.com/embed/Qxh_l7snXEM

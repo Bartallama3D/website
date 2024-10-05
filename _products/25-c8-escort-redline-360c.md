@@ -10,7 +10,7 @@ cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/25-c8-e
 description: Precision fit radar holder for an Escort Redline 360c designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1784622142/escort-redline-360c-corvette-c8-radar
 amazon_link: https://www.amazon.com/dp/B0DHQZJYCL
-instruction_pdf:
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279899216
 youtube_link: 
 youtube_embed_link:

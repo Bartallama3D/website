@@ -10,7 +10,7 @@ cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesl
 description: Mount for a Escort Max 360 MKII for a Tesla
 etsy_link: https://www.etsy.com/listing/1726155719/bartallama3d-radar-holder-for-escort-max
 amazon_link: https://www.amazon.com/dp/B0D3C1K8J4
-instruction_pdf: 12-Tesla-Escort-Max-360-MKII-Holder-Bartallama3D.pdf
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326115050964
 youtube_link: https://youtu.be/axVvq3LGbTo
 youtube_embed_link: https://www.youtube.com/embed/axVvq3LGbTo?si=tPv8BNgaCkPye_Ei

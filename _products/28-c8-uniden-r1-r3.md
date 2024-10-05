@@ -10,7 +10,7 @@ cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/28-c8-u
 description: Precision fit radar holder for a Uniden R1 or R3 designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1798823509/uniden-r1-or-r3-corvette-c8-radar-holder
 amazon_link: https://www.amazon.com/dp/B0DHR4HC7R
-instruction_pdf:
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279901836
 youtube_link: 
 youtube_embed_link:

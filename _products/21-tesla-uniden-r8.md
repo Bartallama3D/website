@@ -10,7 +10,7 @@ cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesl
 description: Mount for a Uniden R8 for Tesla Vehicles
 etsy_link: https://www.etsy.com/listing/1764487532/uniden-r8-tesla-radar-holder-by?ref=listings_manager_grid
 amazon_link: https://www.amazon.com/dp/B0DCTKJQBV
-cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Uniden-R8-Radar-Holder-for-Tesla-Instructions-Bartallama3D.pdf 
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326234965922
 youtube_link: 
 youtube_embed_link: 

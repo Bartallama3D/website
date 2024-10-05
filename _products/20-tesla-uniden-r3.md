@@ -10,7 +10,7 @@ cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/20-tesl
 description: Mount for a Uniden R1 or R3 for Tesla Vehicles
 etsy_link: https://www.etsy.com/listing/1779141705/uniden-r3-tesla-radar-holder-by
 amazon_link: https://www.amazon.com/dp/B0DCTKYHX5
-instruction_pdf: 
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326234968186
 youtube_link: 
 youtube_embed_link: 

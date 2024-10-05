@@ -10,7 +10,7 @@ cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/24-c8-v
 description: Precision fit radar holder for a Valentine One 2nd Generation designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1784621610/valentine-one-2nd-generation-corvette-c8
 amazon_link: https://www.amazon.com/dp/B0DHR3YVYJ
-instruction_pdf:
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279898546
 youtube_link: 
 youtube_embed_link:

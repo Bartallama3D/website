@@ -10,7 +10,7 @@ cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/30-c8-r
 description: Precision fit radar holder for a Radenso DS1 designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1798824315/radenso-ds1-corvette-c8-radar-holder-by
 amazon_link: https://www.amazon.com/dp/B0DHR4555S
-instruction_pdf:
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279903756
 youtube_link: 
 youtube_embed_link:

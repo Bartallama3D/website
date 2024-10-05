@@ -10,7 +10,7 @@ cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/27-c8-e
 description: Precision fit radar holder for an Escort Max 360 designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1798822971/escort-max-360-corvette-c8-radar-holder
 amazon_link: https://www.amazon.com/dp/B0DHR3MM2D
-instruction_pdf:
+cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279901316
 youtube_link: 
 youtube_embed_link:
