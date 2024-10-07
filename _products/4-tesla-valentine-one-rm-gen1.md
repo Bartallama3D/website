@@ -6,14 +6,14 @@ product_id_int: 4
 hidden: false
 name: Bartallama3D™ Radar Holder for Valentine One Gen1 compatible with Tesla Vehicles
 cost: "30.00"
-cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/0.jpg
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/4-tesla-valentine-one-rm-gen1/0.jpg
 description: Mount for a Valentine One Gen1 for a Tesla
 etsy_link: https://www.etsy.com/listing/1560892594/valentine-one-mount-for-tesla-3d-printed
 amazon_link: https://www.amazon.com/dp/B0D1JS1NDK
 ebay_link: 
 youtube_link: https://youtu.be/UG_un0AYOsU
 youtube_embed_link: https://www.youtube.com/embed/UG_un0AYOsU
-cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 bullet_points:
   - point: Mounts your radar detector on the center screen and Securely holds the radar detector
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
@@ -24,27 +24,27 @@ special_order: false
 customizeable: true
 images:
 - id: 1
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/1.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/4-tesla-valentine-one-rm-gen1/1.jpg
   description: "Bracket comes with 3 3D printed parts, screws for assembly, a hex wrench and a alcohol cleaning pad"
   title: Package contents
 - id: 3
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/3.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/4-tesla-valentine-one-rm-gen1/3.jpg
   description: "Image showing the V1Gen1 radar it is compatible with"
   title: Compatibility Chart
 - id: 4
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/4.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/4-tesla-valentine-one-rm-gen1/4.jpg
   description: "Front view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Front View
 - id: 5
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/5.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/4-tesla-valentine-one-rm-gen1/5.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
 - id: 6
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/6.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/4-tesla-valentine-one-rm-gen1/6.jpg
   description: "Photo of our packing for radar mounts"
   title: Product Box Photo
 - id: 7
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/4-tesla-valentine-one-rm-gen1/Compatible-Vehicles-Table.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/4-tesla-valentine-one-rm-gen1/Compatible-Vehicles-Table.jpg
   description: "Compatible Vehicles Table Photo"
   title: Compatible Vehicles Table
 specs:

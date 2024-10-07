@@ -6,11 +6,11 @@ product_id_int: 21
 hidden: false
 name: Bartallama3D™ Radar Holder for Uniden R8 compatible with Telsa Vehicles
 cost: "30.00"
-cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/1.jpg
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/1.jpg
 description: Mount for a Uniden R8 for Tesla Vehicles
 etsy_link: https://www.etsy.com/listing/1764487532/uniden-r8-tesla-radar-holder-by?ref=listings_manager_grid
 amazon_link: https://www.amazon.com/dp/B0DCTKJQBV
-cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326234965922
 youtube_link: 
 youtube_embed_link: 
@@ -24,43 +24,43 @@ special_order: false
 customizeable: true
 images:
 - id: 1
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/1.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/1.jpg
   description: A picture of the assembled unit from the right with installed Uniden R8 radar
   title: Assembled unit - right view
 - id: 2
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/2.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/2.jpg
   description: A picture of the assembled unit from the left with installed Uniden R8 radar
   title: Assembled unit - left view
 - id: 3
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/11.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/11.jpg
   description: Photo of what's included in the box
   title: What's Included
 - id: 4
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/21.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/21.jpg
   description: This radar holder is only compatible with the Uniden R8. It was designed around the unique shape of the R8 and only fits those specific radar units perfectly.
   title: Radar Compatibility Warning
 - id: 5
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/22.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/22.jpg
   description: This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle. Cybertrucks require a different screen backer part and can be requested at purchase. 
   title: Compatible Vehicles Table
 - id: 6
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/31.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/31.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed
   title: Car view - Front Left
 - id: 7
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/32.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/32.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed - Right Side View
   title: Car view - Front Right 
 - id: 8
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/33.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/33.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed showing the side profile with cable clips
   title: Car view - Side Profile
 - id: 9
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/61.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/61.jpg
   description: A photo of our packaging from the front
   title: Box - Front 
 - id: 10
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/21-tesla-uniden-r8/62.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/21-tesla-uniden-r8/62.jpg
   description: A photo of our packaging from the back
   title: Box - Back
 specs:

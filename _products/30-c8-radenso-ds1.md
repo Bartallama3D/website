@@ -6,11 +6,11 @@ product_id_int: 30
 hidden: false
 name: Bartallama3D™ Radar Holder for Radenso DS1 compatible with C8 Corvette
 cost: "30.00"
-cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/30-c8-radenso-ds1/1.jpg
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/30-c8-radenso-ds1/1.jpg
 description: Precision fit radar holder for a Radenso DS1 designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1798824315/radenso-ds1-corvette-c8-radar-holder-by
 amazon_link: https://www.amazon.com/dp/B0DHR4555S
-cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279903756
 youtube_link: 
 youtube_embed_link:
@@ -25,19 +25,19 @@ special_order: false
 customizeable: true
 images:
 - id: 1
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/30-c8-radenso-ds1/21.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/30-c8-radenso-ds1/21.jpg
   description: Photo showing this radar holder is only compatible with the Radenso DS1 Radar
   title: Compatible Radar Units
 - id: 2
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/30-c8-radenso-ds1/22.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/30-c8-radenso-ds1/22.jpg
   description: Photo showing this radar holder is only compatible with the C8 Corvette
   title: Included parts
 - id: 3
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/30-c8-radenso-ds1/41.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/30-c8-radenso-ds1/41.jpg
   description: A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
 - id: 4
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/30-c8-radenso-ds1/42.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/30-c8-radenso-ds1/42.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
   

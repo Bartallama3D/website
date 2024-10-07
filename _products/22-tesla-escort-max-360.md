@@ -6,11 +6,11 @@ product_id_int: 22
 hidden: false
 name: Bartallama3D™ Radar Holder for Escort Max 360 compatible with Tesla Vehicles
 cost: "30.00"
-cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/1.jpg
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/1.jpg
 description: Mount for a Escort Max 360 for a Tesla
 etsy_link: https://www.etsy.com/listing/1764951300/escort-max-360-tesla-radar-holder-by?ref=listings_manager_grid
 amazon_link: https://www.amazon.com/dp/B0DCTKRX63
-cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326234963782
 youtube_link: 
 youtube_embed_link:
@@ -24,52 +24,52 @@ special_order: false
 customizeable: true
 images:
 - id: 1
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/1.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/1.jpg
   description: A picture of the assembled unit from the left with installed Escort Max 360 radar
   title: Assembled unit - left view
 
 - id: 2
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/2.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/2.jpg
   description: A picture of the assembled unit from the right with installed Escort Max 360 radar
   title: Assembled unit - right view
 
 - id: 3
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/11.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/11.jpg
   description: Photo of what's included in the box
   title: What's Included
 
 - id: 4
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/21.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/21.jpg
   description: This radar holder is only compatible with the Escort Max 360. It was designed around the unique shape of the Escort Max 360 and only fits this specific radar unit perfectly.
   title: Radar Compatibility Warning
 
 - id: 5
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/22.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/22.jpg
   description: This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle. Cybertrucks require a different screen backer part and can be requested at purchase. 
   title: Compatible Vehicles Table
 
 - id: 6
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/31.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/31.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed
   title: Car view - Front
 
 - id: 7
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/32.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/32.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed, right view
   title: Car view - right 
 
 - id: 8
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/33.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/33.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed showing the side profile with cable clips
   title: Car view - Side Profile
 
 - id: 9
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/61.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/61.jpg
   description: A photo of our packaging from the front
   title: Box - Front 
 
 - id: 10
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/22-tesla-escort-max-360/62.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/62.jpg
   description: A photo of our packaging from the back
   title: Box - Back 
 

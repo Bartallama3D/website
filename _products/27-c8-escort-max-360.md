@@ -6,11 +6,11 @@ product_id_int: 27
 hidden: false
 name: Bartallama3D™ Radar Holder for Escort Max 360 compatible with C8 Corvette
 cost: "30.00"
-cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/27-c8-escort-max-360/1.jpg
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/27-c8-escort-max-360/1.jpg
 description: Precision fit radar holder for an Escort Max 360 designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1798822971/escort-max-360-corvette-c8-radar-holder
 amazon_link: https://www.amazon.com/dp/B0DHR3MM2D
-cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279901316
 youtube_link: 
 youtube_embed_link:
@@ -25,23 +25,23 @@ special_order: false
 customizeable: true
 images:
 - id: 1
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/27-c8-escort-max-360/21.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/27-c8-escort-max-360/21.jpg
   description: Photo showing this radar holder is only compatible with the Escort Max 360 Radar
   title: Compatible Radar Units
 - id: 2
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/27-c8-escort-max-360/22.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/27-c8-escort-max-360/22.jpg
   description: Photo showing this radar holder is only compatible with the C8 Corvette
   title: Included parts
 - id: 3
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/27-c8-escort-max-360/31.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/27-c8-escort-max-360/31.jpg
   description: A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
 - id: 4
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/27-c8-escort-max-360/32.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/27-c8-escort-max-360/32.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
 - id: 5
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/27-c8-escort-max-360/33.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/27-c8-escort-max-360/33.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
 specs:

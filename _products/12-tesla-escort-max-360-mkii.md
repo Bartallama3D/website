@@ -6,11 +6,11 @@ product_id_int: 12
 hidden: false
 name: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with Tesla Vehicles
 cost: "30.00"
-cf_image_thumbnail: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/1.jpg
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/1.jpg
 description: Mount for a Escort Max 360 MKII for a Tesla
 etsy_link: https://www.etsy.com/listing/1726155719/bartallama3d-radar-holder-for-escort-max
 amazon_link: https://www.amazon.com/dp/B0D3C1K8J4
-cf_instruction_pdf: https://d1vfl4dwpvnndi.cloudfront.net/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326115050964
 youtube_link: https://youtu.be/axVvq3LGbTo
 youtube_embed_link: https://www.youtube.com/embed/axVvq3LGbTo?si=tPv8BNgaCkPye_Ei
@@ -24,39 +24,39 @@ special_order: false
 customizeable: true
 images:
 - id: 0
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/0.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/0.jpg
   description: "A picture of the assembled unit with installed Escort Max 360 MKII unit"
   title: Assembled with Radar
 - id: 1
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/1.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/1.jpg
   description: A picture of the assembled unit with installed Escort Max 360 MKII from - left view
   title: Assembled unit - left view
 - id: 2
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/2.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/2.jpg
   description: "Mount comes with 3 3D printed parts, screws for assembly, a hex wrench and an alcohol cleaning pad"
   title: Package Contents
 - id: 3
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/3.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/3.jpg
   description: "View of the Escort Max 360 MKII installed in the bracket in a Tesla"
   title: In Car View
 - id: 4
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/4.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/4.jpg
   description: "View of the Escort Max 360 MKII installed in the bracket in a Tesla"
   title: In Car View
 - id: 5
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/5.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/5.jpg
   description: "Side view of the Escort Max 360 MKII installed in the bracket in a Tesla"
   title: In Car side view
 - id: 6
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/6.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/6.jpg
   description: "Image of the bottom of the unit showing the cable clips"
   title: Cable Clips
 - id: 7
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/7.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/7.jpg
   description: This radar holder is only compatible with the Escort Max 360 MKII . It was designed around the unique shape of the Escort Max 360 MKII and only fits that specific radar unit perfectly. 
   title: Compatible Radar Units
 - id: 8
-  cf_src: https://d1vfl4dwpvnndi.cloudfront.net/listing-photos/12-tesla-escort-max-360-mkii/Compatible-Vehicles-Table.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/Compatible-Vehicles-Table.jpg
   description:  This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle. Cybertrucks require a different screen backer part and can be requested at purchase. 
   title: Compatible Vehicles Table
 specs:
