@@ -3,7 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Precision-Fit Radar Holder for Uniden R7 and Tesla
 product_id: 34-tesla-uniden-r7
 product_id_int: 34
-hidden: true
+hidden: false
 name: Bartallama3D™ Precision-Fit Radar Holder for Uniden R7 and Tesla
 cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/34-tesla-uniden-r7/1.jpg
