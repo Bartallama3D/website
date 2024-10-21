@@ -11,7 +11,7 @@ description: Precision fit radar holder for a Uniden R7 designed to fit the C8 C
 etsy_link: https://www.etsy.com/listing/1809501615/precision-fit-radar-holder-uniden-r7
 amazon_link: https://www.amazon.com/dp/B0DK133Z5K
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-ebay_link: https://www.ebay.com/itm/326302794345
+ebay_link: https://www.ebay.com/itm/326311004193
 youtube_link: 
 youtube_embed_link:
 bullet_points:
