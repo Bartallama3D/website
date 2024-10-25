@@ -65,7 +65,8 @@ revisions:
     change_log: Initial release of the bracket. Packed in plastic bags. 
   - version: 1.1
     change_log: Adjustment to the bracket. Added cable clips to hold radar power cables down the back of the screen. Packaged in cardboard boxes with all required parts.
-    final: true
+  - version: 1.2
+    change_log: Added Rubber pads to the units, replacing the previous 3M tape. This now makes the units easily removable while still providing the same grip.
 ---
 
 3D Printed Valentine One Radar Mount for Tesla made from ABS. This mount allows you to mount a Valentine One Radar Detector to the center display screen of your Tesla. The mount is designed to hold the radar detector and prevent it from shifting while driving while also keeping it at eye level for easy visibility.

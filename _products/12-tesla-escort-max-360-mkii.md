@@ -79,6 +79,10 @@ additional_links:
 revisions:
   - version: 1.0
     change_log: Initial release of the holder
+  - version: 1.1
+    change_log: Replacing the 3M tape with Rubber pads. This now makes the unit easily removable while still providing the same great grip.
+  - version: 1.2
+    change_log: Unit now comes with a slim platform found on some newer radar units. Makes the entire unit look smaller and more aesthetically pleasing.
 ---
 
 Introducing the Bartallama3D™ Radar Holder for Escort Max 360 MKII, designed specifically for Tesla vehicles. This sleek mount securely holds your radar detector on the center screen, ensuring it stays in place while driving. With integrated cable clips for clean cable management, simple assembly, and a secure fit to prevent shifting, this holder is the perfect accessory for your Tesla.

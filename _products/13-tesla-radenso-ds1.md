@@ -76,7 +76,7 @@ additional_links:
     link: https://radenso.com/collections/radar-detectors/products/radenso-ds1
 revisions:
   - version: 1.0
-    change_log: Initial release of the holder
+    change_log: Initial release of the holder. Some versions come in a newer designed box that looks nicer. Still same items found inside. 
 ---
 
 Introducing the Bartallama3D™ Radar Holder for the Radenso DS1, designed specifically for Tesla vehicles. This sleek mount securely holds your radar detector on the center screen, ensuring it stays in place while driving. With integrated cable clips for clean cable management, simple assembly, and a secure fit to prevent shifting, this holder is the perfect accessory for your Tesla.
