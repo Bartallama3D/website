@@ -70,6 +70,12 @@ revisions:
   - version: 1.0
     change_log: Initial release of the holder building on the innovation of our other holders! 
 ---
+<img src="https://assets.bartallama3d.design/premium-content/radar-holders/header.jpg">
+<img src="https://assets.bartallama3d.design/premium-content/radar-holders/radar_description.jpg">
+<img src="https://assets.bartallama3d.design/premium-content/radar-holders/platform_tesla.jpg">
+<img src="https://assets.bartallama3d.design/premium-content/radar-holders/radar_uniden_r7.jpg">
+<img src="https://assets.bartallama3d.design/premium-content/radar-holders/footer.jpg">
+
 Introducing the Bartallama3D™ Radar Holder for the Uniden R7 radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a Tesla screen. This radar holder is not compatible with any other vehicles. 
 
 Key Features:
