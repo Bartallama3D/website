@@ -8,10 +8,10 @@ name: Bartallama3D™ Precision-Fit Radar Holder for Uniden R4 and Tesla
 cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/36-tesla-uniden-r4/1.jpg
 description: Precision fit radar holder for a Uniden R4 designed to fit inside a Tesla
-etsy_link: 
-amazon_link: 
+etsy_link: https://bartallama3d.etsy.com/listing/1806054086/uniden-r4-tesla-radar-holder-by
+amazon_link: https://www.amazon.com/dp/B0DLWCD5GP
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-ebay_link: 
+ebay_link: https://www.ebay.com/itm/326326872362
 youtube_link: 
 youtube_embed_link:
 bullet_points:
