@@ -50,7 +50,7 @@ specs:
   Release Date: 09/22/2024
   Compatible Units: Valentine One 2nd Generation Radar
   Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 90 grams / 0.2 lbs / 3.2 oz
+  Package Weight: 85 grams / 0.18 lbs / 3 oz
 compatible_vehicles:
   Corvette (C8): 2020 - 2025
 additional_links:

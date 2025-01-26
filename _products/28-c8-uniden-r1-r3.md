@@ -51,7 +51,7 @@ specs:
   Release Date: 09/22/2024
   Compatible Units: Uniden R1 or Uniden R3
   Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 90 grams / 0.2 lbs / 3.2 oz
+  Package Weight: 95 grams / 0.2 lbs / 3.35 oz
 compatible_vehicles:
   Corvette (C8): 2020 - 2025
 additional_links:

@@ -9,7 +9,7 @@ subtitle: Introduction
 Hi there! My name is Bart and I am the creator of Bartallama3D. As an engineer by trade, I enjoy 3D printing to solve problems and build cool stuff!
 Using 3D printing I have built cool projects for my home, various brackets, and even some fun toys for my friends as gifts. 
 
-If you would like to get in touch with me, you can email me at [hello@bartallama3d.design](mailto:hello@bartallam3d.design)
+If you would like to get in touch with me, you can email me at [hello@bartallama3d.design](mailto:hello@bartallama3d.design)
 
 ### My story
 
