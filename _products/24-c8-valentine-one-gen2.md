@@ -60,6 +60,8 @@ additional_links:
 revisions:
   - version: 1.0
     change_log: Initial release of the holder. The features found on this holder are derived from our Tesla Radar Holder which has undergone 3 iterations. 
+  - version: 1.1
+    change_log: Newer sturdier packaging and printed color inserts. Valentine One Gen2 holder has been changed to an Insert/Glove type holder from a tray type holder making the part stronger. The part also features a satisfying click when inserting the radar unit into the holder and also supports rotation up to 30 degrees in either direction to support Model S/X vehicles along with custom modded screens that have a tilt attachment added. 
 ---
 
 Introducing the Bartallama3D™ Radar Holder for the 2nd Generation Valentine One radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a C8 Corvette. This radar holder is not compatible with any other vehicles. 

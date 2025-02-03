@@ -69,6 +69,8 @@ additional_links:
 revisions:
   - version: 1.0
     change_log: Initial release of the holder building on the innovation of our other holders! 
+  - version: 1.1
+    change_log: Newer sturdier packaging and printed color inserts. Parts shipped are unchanged from version 1.0
 ---
 <img src="https://assets.bartallama3d.design/premium-content/radar-holders/header.jpg">
 <img src="https://assets.bartallama3d.design/premium-content/radar-holders/radar_description.jpg">

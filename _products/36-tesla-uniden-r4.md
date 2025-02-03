@@ -64,7 +64,9 @@ additional_links:
     link: https://uniden.com/products/r4
 revisions:
   - version: 1.0
-    change_log: Initial release of the holder building on the innovation of our other holders! 
+    change_log: Initial release of the holder building on the innovation of our other holders!
+  - version: 1.1
+    change_log: Newer sturdier packaging and printed color inserts. Radar holder has been updated to be smaller and lighter with the same grip around the unit.
 ---
 <img src="https://assets.bartallama3d.design/premium-content/radar-holders/header.jpg">
 <img src="https://assets.bartallama3d.design/premium-content/radar-holders/radar_description.jpg">
