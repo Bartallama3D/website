@@ -19,14 +19,11 @@ bullet_points:
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - point: Integrated cable clips for clean cable management down the back of your screen
   - point: Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
+  - point: Radar holder can be rotated 30 degrees in either direction. 
   - point: Simple and quick assembly
 special_order: false
 customizeable: true
 images:
-- id: 1
-  cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/1.jpg
-  description: "Bracket comes with 3 3D printed parts, screws for assembly, a hex wrench and a alcohol cleaning pad"
-  title: Package contents
 - id: 3
   cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/3.jpg
   description: "Image showing the V1Gen2 radar it is compatible with"
@@ -39,10 +36,6 @@ images:
   cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/5.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
-- id: 6
-  cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/6.jpg
-  description: "Photo of our packing for radar mounts"
-  title: Product Box Photo
 - id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/Compatible-Vehicles-Table.jpg
   description: "Compatible Vehicles Table Photo"
@@ -75,6 +68,8 @@ revisions:
     change_log: Replaced the fat mounting platform with the newer Slim platform found on most other radars. This enhances the aesthetic on the Tesla screen and makes the entire radar looker smaller/slimmer. 
   - version: 1.4
     change_log: Newer sturdier packaging and printed color inserts. Valentine One Gen2 holder has been changed to an Insert/Glove type holder from a tray type holder making the part stronger. The part also features a satisfying click when inserting the radar unit into the holder and also supports rotation up to 30 degrees in either direction to support Model S/X vehicles along with custom modded screens that have a tilt attachment added. 
+  - version: 1.5
+    change_log: New Valentine One Gen2 Holder. New design utilizes a glove type holder vs a insert type holder providing 360 degrees of hold. New holder has light texture applied to surface to enhance visual appeal, has bumps that create a click effect when inserting, and can be tilted in either direction by 30 degrees. 
 ---
 
 Introducing the Bartallama3D™ Radar Holder for the Valentine One 2nd Generation, designed specifically for Tesla vehicles. This sleek mount securely holds your radar detector on the center screen, ensuring it stays in place while driving. With integrated cable clips for clean cable management, simple assembly, and a secure fit to prevent shifting, this holder is the perfect accessory for your Tesla.
@@ -84,6 +79,7 @@ Key Features:
 - Non-Permanent Installation, easily remove and stow radar when needed
 - Integrated cable clips for clean cable management down the back of your screen
 - Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
+- Radar holder supports rotation of 30 degrees in either direction
 - Simple and quick assembly
 
 This listing is for 1 mount and includes all parts needed for assembly and installation.
@@ -93,4 +89,4 @@ Compatible Vehicles:
 - Tesla Model 3 - 2017 - 2025
 - Tesla Model X - 2022 - 2025
 - Tesla Model Y - 2020 - 2025
-- Tesla Cyber Truck - 2025 ** Requires a replacement part for the assembly. 
+- Tesla Cyber Truck - 2025
