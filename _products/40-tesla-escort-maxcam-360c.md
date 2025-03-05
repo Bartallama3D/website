@@ -3,7 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Precision-Fit Radar Holder for Escort MaxCam 360c and Tesla Vehicles
 product_id: 40-tesla-escort-maxcam-360c
 product_id_int: 40
-hidden: false
+hidden: true
 name: Bartallama3D™ Precision-Fit Radar Holder for Escort MaxCam 360c and Tesla Vehicles
 cost: "35.00"
 
