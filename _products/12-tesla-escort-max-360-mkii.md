@@ -7,7 +7,7 @@ hidden: false
 name: Bartallama3D™ Radar Holder for Escort Max 360c MKII compatible with Tesla Vehicles
 cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/0.jpg
-description: Mount for a Escort Max 360 MKII for a Tesla
+description: Mount for a Escort Max 360c MKII, Max 360c, or Max 360 MKII for a Tesla
 etsy_link: https://www.etsy.com/listing/1726155719/bartallama3d-radar-holder-for-escort-max
 amazon_link: https://www.amazon.com/dp/B0D3C1K8J4
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
