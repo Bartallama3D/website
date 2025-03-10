@@ -52,7 +52,7 @@ compatible_vehicles:
   Tesla Model 3: 2017 - 2025
   Tesla Model X: 2022 - 2025
   Tesla Model Y: 2020 - 2025
-  Tesla Cybertruck: Contact Us! Modified part required.
+  Tesla Cybertruck: 2025
 additional_links:
   - text: Valentine One 2nd Generation Radar Unit
     description: Valentine One 2nd Generation Radar Detector
