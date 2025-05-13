@@ -32,7 +32,7 @@ images:
   description: Radars Product overview
   id: 1
   title: Radars Product overview
-- cf_src: https://assets.bartallama3d.design/listing-photos/29/2_Tesla_platform.jpg
+- cf_src: https://assets.bartallama3d.design/listing-photos/29/2_c8_corvette_platform.jpg
   description: Vehicle Platform
   id: 2
   title: Vehicle Platform
@@ -44,7 +44,7 @@ images:
   description: Radar Compatibility table
   id: 4
   title: Radar Compatibility table
-- cf_src: https://assets.bartallama3d.design/listing-photos/29/5_vehicle_compat_Tesla.jpg
+- cf_src: https://assets.bartallama3d.design/listing-photos/29/5_vehicle_compat_c8_corvette.jpg
   description: Vehicle Compatibility table
   id: 5
   title: Vehicle Compatibility table

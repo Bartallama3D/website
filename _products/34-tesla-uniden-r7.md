@@ -32,7 +32,7 @@ images:
   description: Radars Product overview
   id: 1
   title: Radars Product overview
-- cf_src: https://assets.bartallama3d.design/listing-photos/34/2_c8_corvette_platform.jpg
+- cf_src: https://assets.bartallama3d.design/listing-photos/34/2_Tesla_platform.jpg
   description: Vehicle Platform
   id: 2
   title: Vehicle Platform
@@ -44,7 +44,7 @@ images:
   description: Radar Compatibility table
   id: 4
   title: Radar Compatibility table
-- cf_src: https://assets.bartallama3d.design/listing-photos/34/5_vehicle_compat_c8_corvette.jpg
+- cf_src: https://assets.bartallama3d.design/listing-photos/34/5_vehicle_compat_Tesla.jpg
   description: Vehicle Compatibility table
   id: 5
   title: Vehicle Compatibility table
@@ -52,6 +52,7 @@ images:
   description: Bartallama3D Marketing image
   id: 6
   title: Bartallama3D Marketing image
+
 - id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/34-tesla-uniden-r7/31.jpg
   description: A photo of the radar holder installed in a Tesla
