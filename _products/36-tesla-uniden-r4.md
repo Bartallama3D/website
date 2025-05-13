@@ -5,8 +5,8 @@ product_id: 36-tesla-uniden-r4
 product_id_int: 36
 hidden: false
 name: Bartallama3D™ Precision-Fit Radar Holder for Uniden R4 and Tesla
-cost: "30.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/36-tesla-uniden-r4/1.jpg
+cost: "35.00"
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/36/0_leader.jpg
 description: Precision fit radar holder for a Uniden R4 designed to fit inside a Tesla
 etsy_link: https://bartallama3d.etsy.com/listing/1806054086/uniden-r4-tesla-radar-holder-by
 amazon_link: https://www.amazon.com/dp/B0DLWCD5GP
@@ -24,23 +24,43 @@ bullet_points:
 special_order: false
 customizeable: true
 images:
-- id: 2
-  cf_src: https://assets.bartallama3d.design/listing-photos/36-tesla-uniden-r4/21.jpg
-  description: Photo showing this radar holder is only compatible with the Uniden R4
-  title: Compatible Radar Units
-- id: 3
-  cf_src: https://assets.bartallama3d.design/listing-photos/36-tesla-uniden-r4/22.jpg
-  description: Photo showing this radar holder is only compatible with some Teslas
-  title: Compatible Vehicles
-- id: 4
+- cf_src: https://assets.bartallama3d.design/listing-photos/36/0_leader.jpg
+  description: Product Leader Image
+  id: 0
+  title: Product Leader Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/36/1_radars.jpg
+  description: Radars Product overview
+  id: 1
+  title: Radars Product overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/36/2_Tesla_platform.jpg
+  description: Vehicle Platform
+  id: 2
+  title: Vehicle Platform
+- cf_src: https://assets.bartallama3d.design/listing-photos/36/3_radar_overview_uniden_r4.jpg
+  description: Radar Holder overview
+  id: 3
+  title: Radar Holder overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/36/4_radar_compat_uniden_r4.jpg
+  description: Radar Compatibility table
+  id: 4
+  title: Radar Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/36/5_vehicle_compat_Tesla.jpg
+  description: Vehicle Compatibility table
+  id: 5
+  title: Vehicle Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/36/9_generic.jpg
+  description: Bartallama3D Marketing image
+  id: 6
+  title: Bartallama3D Marketing image
+- id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/36-tesla-uniden-r4/31.jpg
   description: A photo of the radar holder installed in a Tesla
   title: Installation Photo
-- id: 5
+- id: 8
   cf_src: https://assets.bartallama3d.design/listing-photos/36-tesla-uniden-r4/32.jpg
   description:  A photo of the radar holder installed in a Tesla
   title: Installation Photo
-- id: 6
+- id: 9
   cf_src: https://assets.bartallama3d.design/listing-photos/36-tesla-uniden-r4/33.jpg
   description:  A photo of the radar holder installed in a Tesla
   title: Installation Photo
@@ -50,14 +70,14 @@ specs:
   Material: ABS
   Release Date: 11/03/2024
   Compatible Units: Uniden R4 Only
-  Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 95 grams / 0.22 lbs / 3.35 oz
+  Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
+  Package Weight: 120 grams / 0.26 lbs / 4.2 oz
 compatible_vehicles:
   Tesla Model S: 2021 - 2025
   Tesla Model 3: 2017 - 2025
   Tesla Model X: 2022 - 2025
   Tesla Model Y: 2020 - 2025
-  Tesla Cybertruck: Contact Us! Modified part required.
+  Tesla Cybertruck: 2025
 additional_links:
   - text: Uniden R4
     description: Uniden R4 Radar Detector
@@ -67,6 +87,8 @@ revisions:
     change_log: Initial release of the holder building on the innovation of our other holders!
   - version: 1.1
     change_log: Newer sturdier packaging and printed color inserts. Radar holder has been updated to be smaller and lighter with the same grip around the unit.
+  - version: 1.2
+    change_log: New version includes our new platform that has a built in rubber pad that sits against the screen along with an articulating rubber bumper making the unit sit better in a Model S/X. This unit also comes with a textured surface to enhance the radar holders aesthetic. 
 ---
 <img src="https://assets.bartallama3d.design/premium-content/radar-holders/header.jpg">
 <img src="https://assets.bartallama3d.design/premium-content/radar-holders/radar_description.jpg">
@@ -95,7 +117,7 @@ Compatible Vehicles:
 - Model 3: 2017 - 2025
 - Model X: 2022 - 2025
 - Model Y: 2020 - 2025
-- Cybertruck: 2025 (Requires a different screen backer. We sell this option on Etsy and Ebay)
+- Cybertruck: 2025
 
 The assembly and installation of this radar mount is similar to our Valentine One Radar mount for Teslas. A YouTube video featuring our 1st iteration of this radar mount could be found here: https://youtu.be/UG_un0AYOsU
 

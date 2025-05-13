@@ -5,8 +5,8 @@ product_id: 26-c8-escort-max-360-mkii
 product_id_int: 26
 hidden: false
 name: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with C8 Corvette
-cost: "30.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/26-c8-escort-max-360-mkii/1.jpg
+cost: "35.00"
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/26/0_leader.jpg
 description: Precision fit radar holder for an Escort Max 360 MKII designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1784622648/escort-max-360-mkii-corvette-c8-radar
 amazon_link: https://www.amazon.com/dp/B0DHR3B8K2
@@ -24,23 +24,43 @@ bullet_points:
 special_order: false
 customizeable: true
 images:
-- id: 1
-  cf_src: https://assets.bartallama3d.design/listing-photos/26-c8-escort-max-360-mkii/21.jpg
-  description: Photo showing this radar holder is only compatible with the Escort Max 360 MKII Radar
-  title: Compatible Radar Units
-- id: 2
-  cf_src: https://assets.bartallama3d.design/listing-photos/26-c8-escort-max-360-mkii/22.jpg
-  description: Photo showing this radar holder is only compatible with the C8 Corvette
-  title: Included parts
-- id: 3
+- cf_src: https://assets.bartallama3d.design/listing-photos/26/0_leader.jpg
+  description: Product Leader Image
+  id: 0
+  title: Product Leader Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/26/1_radars.jpg
+  description: Radars Product overview
+  id: 1
+  title: Radars Product overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/26/2_c8_corvette_platform.jpg
+  description: Vehicle Platform
+  id: 2
+  title: Vehicle Platform
+- cf_src: https://assets.bartallama3d.design/listing-photos/26/3_radar_overview_escort_max_360c.jpg
+  description: Radar Holder overview
+  id: 3
+  title: Radar Holder overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/26/4_radar_compat_escort_max_360c.jpg
+  description: Radar Compatibility table
+  id: 4
+  title: Radar Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/26/5_vehicle_compat_c8_corvette.jpg
+  description: Vehicle Compatibility table
+  id: 5
+  title: Vehicle Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/26/9_generic.jpg
+  description: Bartallama3D Marketing image
+  id: 6
+  title: Bartallama3D Marketing image
+- id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/26-c8-escort-max-360-mkii/31.jpg
   description: A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
-- id: 4
+- id: 8
   cf_src: https://assets.bartallama3d.design/listing-photos/26-c8-escort-max-360-mkii/32.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
-- id: 5
+- id: 9
   cf_src: https://assets.bartallama3d.design/listing-photos/26-c8-escort-max-360-mkii/33.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
@@ -50,8 +70,8 @@ specs:
   Material: ABS
   Release Date: 09/22/2024
   Compatible Units: Escort Max 360 MKII Only
-  Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 90 grams / 0.2 lbs / 3.2 oz
+  Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
+  Package Weight: 120 grams / 0.26 lbs / 4.2 oz
 compatible_vehicles:
   Corvette (C8): 2020 - 2025
 additional_links:

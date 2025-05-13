@@ -1,12 +1,12 @@
 ---
 layout: product_listing
-title: Bartallama3D™ Radar Holder for Escort Max 360c MKII compatible with Tesla Vehicles
+title: Bartallama3D™ Radar Holder for Escort Max 360c, 360 MKII, and 360c MKII compatible with Tesla Vehicles
 product_id: 12-tesla-escort-max-360-mkii
 product_id_int: 12
 hidden: false
-name: Bartallama3D™ Radar Holder for Escort Max 360c MKII compatible with Tesla Vehicles
-cost: "30.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/0.jpg
+name: Bartallama3D™ Radar Holder for Escort Max 360c MKII, 360 MKII, and 360c MKII  compatible with Tesla Vehicles
+cost: "35.00"
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/12/0_leader.jpg
 description: Mount for a Escort Max 360c MKII, Max 360c, or Max 360 MKII for a Tesla
 etsy_link: https://www.etsy.com/listing/1726155719/bartallama3d-radar-holder-for-escort-max
 amazon_link: https://www.amazon.com/dp/B0D3C1K8J4
@@ -24,33 +24,50 @@ bullet_points:
 special_order: false
 customizeable: true
 images:
-- id: 0
-  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/0.jpg
-  description: "A picture of the assembled unit with installed Escort Max 360 MKII unit"
-  title: Assembled with Radar
-- id: 3
+- cf_src: https://assets.bartallama3d.design/listing-photos/12/0_leader.jpg
+  description: Product Leader Image
+  id: 0
+  title: Product Leader Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/12/1_radars.jpg
+  description: Radars Product overview
+  id: 1
+  title: Radars Product overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/12/2_Tesla_platform.jpg
+  description: Vehicle Platform
+  id: 2
+  title: Vehicle Platform
+- cf_src: https://assets.bartallama3d.design/listing-photos/12/3_radar_overview_escort_max_360c.jpg
+  description: Radar Holder overview
+  id: 3
+  title: Radar Holder overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/12/4_radar_compat_escort_max_360c.jpg
+  description: Radar Compatibility table
+  id: 4
+  title: Radar Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/12/5_vehicle_compat_Tesla.jpg
+  description: Vehicle Compatibility table
+  id: 5
+  title: Vehicle Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/12/9_generic.jpg
+  description: Bartallama3D Marketing image
+  id: 6
+  title: Bartallama3D Marketing image
+- id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/3.jpg
   description: "View of the Escort Max 360 MKII installed in the bracket in a Tesla"
   title: In Car View
-- id: 5
+- id: 8
   cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/5.jpg
   description: "Side view of the Escort Max 360 MKII installed in the bracket in a Tesla"
   title: In Car side view
-- id: 7
-  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/7.jpg
-  description: This radar holder is only compatible with the Escort Max 360 MKII . It was designed around the unique shape of the Escort Max 360 MKII and only fits that specific radar unit perfectly. 
-  title: Compatible Radar Units
-- id: 8
-  cf_src: https://assets.bartallama3d.design/listing-photos/12-tesla-escort-max-360-mkii/Compatible-Vehicles-Table.jpg
-  description:  This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle.
-  title: Compatible Vehicles Table
+
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
   Release Date: 05/04/2024
   Compatible Units: Escort Max 360 MKII, Max 360c, Max 360c MKII
-  Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 85 grams / 0.18 lbs / 3 oz
+  Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
+  Package Weight: 120 grams / 0.26 lbs / 4.2 oz
 compatible_vehicles:
   Tesla Model S: 2021 - 2025
   Tesla Model 3: 2017 - 2025

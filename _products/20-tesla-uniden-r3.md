@@ -5,8 +5,8 @@ product_id: 20-tesla-uniden-r3
 product_id_int: 20
 hidden: false
 name: Bartallama3D™ Radar Holder for Uniden R1 or R3 compatible with Telsa Vehicles
-cost: "30.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/1.jpg
+cost: "35.00"
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/20/0_leader.jpg
 description: Mount for a Uniden R1 or R3 for Tesla Vehicles
 etsy_link: https://www.etsy.com/listing/1779141705/uniden-r3-tesla-radar-holder-by
 amazon_link: https://www.amazon.com/dp/B0DCTKYHX5
@@ -23,64 +23,60 @@ bullet_points:
 special_order: false
 customizeable: true
 images:
-- id: 1
-  cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/1.jpg
-  description: A picture of the assembled unit from the left with installed Uniden R3 radar unit
-  title: Assembled unit - left view
-
-- id: 2
-  cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/11.jpg
-  description: Photo of what's included in the box
-  title: What's Included
-
-- id: 3
-  cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/21.jpg
-  description: This radar holder is only compatible with the Uniden R1 or R3. It was designed around the unique shape of the R1 and R3 and only fits those specific radar units perfectly.
-  title: Radar Compatibility Warning
-
-- id: 4
-  cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/22.jpg
-  description: This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle. Cybertrucks require a different screen backer part and can be requested at purchase. 
-  title: Compatible Vehicles Table
-
-- id: 5
+- cf_src: https://assets.bartallama3d.design/listing-photos/20/0_leader.jpg
+  description: Product Leader Image
+  id: 0
+  title: Product Leader Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/20/1_radars.jpg
+  description: Radars Product overview
+  id: 1
+  title: Radars Product overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/20/2_Tesla_platform.jpg
+  description: Vehicle Platform
+  id: 2
+  title: Vehicle Platform
+- cf_src: https://assets.bartallama3d.design/listing-photos/20/3_radar_overview_uniden_r13.jpg
+  description: Radar Holder overview
+  id: 3
+  title: Radar Holder overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/20/4_radar_compat_uniden_r13.jpg
+  description: Radar Compatibility table
+  id: 4
+  title: Radar Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/20/5_vehicle_compat_Tesla.jpg
+  description: Vehicle Compatibility table
+  id: 5
+  title: Vehicle Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/20/9_generic.jpg
+  description: Bartallama3D Marketing image
+  id: 6
+  title: Bartallama3D Marketing image
+- id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/31.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed
   title: Car view - Front
-
-- id: 6
+- id: 8
   cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/32.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed, top view
   title: Car view - Top
-
-- id: 7
+- id: 9
   cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/33.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed showing the side profile with cable clips
   title: Car view - Side Profile
-
-- id: 8
-  cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/61.jpg
-  description: A photo of our packaging from the front
-  title: Box - Front
-
-- id: 9
-  cf_src: https://assets.bartallama3d.design/listing-photos/20-tesla-uniden-r3/62.jpg
-  description: A photo of our packaging from the back
-  title: Box - Back
-  
+ 
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
   Release Date: 08/10/2024
   Compatible Units: Uniden R1 or Uniden R3
-  Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 95 grams / 0.22 lbs / 3.35 oz
+  Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
+  Package Weight: 120 grams / 0.26 lbs / 4.2 oz
 compatible_vehicles:
   Tesla Model S: 2021 - 2025
   Tesla Model 3: 2017 - 2025
   Tesla Model X: 2022 - 2025
   Tesla Model Y: 2020 - 2025
-  Tesla Cybertruck: Contact Us! Modified part required.
+  Tesla Cybertruck: 2025
 additional_links:
   - text: Uniden R3
     description: Uniden R3 Radar Detector
@@ -90,6 +86,8 @@ revisions:
     change_log: Initial release of the holder.
   - version: 1.1
     change_log: Newer sturdier packaging and printed color inserts. Parts shipped are unchanged from version 1.0
+  - version: 1.2
+    change_log: New version includes our new platform that has a built in rubber pad that sits against the screen along with an articulating rubber bumper making the unit sit better in a Model S/X. This unit also comes with a textured surface to enhance the radar holders aesthetic. 
 ---
 
 Introducing the Bartallama3D™ Radar Holder for the Uniden R1 or R3 radar detectors. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a Tesla screen. This radar holder is not compatible with any other vehicles. 
@@ -113,7 +111,7 @@ Compatible Vehicles:
 - Model 3: 2017 - 2025
 - Model X: 2022 - 2025
 - Model Y: 2020 - 2025
-- Cybertruck: 2025 (Requires a different screen backer. We sell this option on Etsy and Ebay)
+- Cybertruck: 2025
 
 The assembly and installation of this radar mount is similar to our Valentine One Radar mount for Teslas. A YouTube video featuring our 1st iteration of this radar mount could be found here: https://youtu.be/UG_un0AYOsU
 

@@ -5,8 +5,8 @@ product_id: 28-c8-uniden-r1-r3
 product_id_int: 28
 hidden: false
 name: Bartallama3D™ Radar Holder for Uniden R1 or R3 compatible with C8 Corvette
-cost: "30.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/28-c8-uniden-r1-r3/1.jpg
+cost: "35.00"
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/28/0_leader.jpg
 description: Precision fit radar holder for a Uniden R1 or R3 designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1798823509/uniden-r1-or-r3-corvette-c8-radar-holder
 amazon_link: https://www.amazon.com/dp/B0DHR4HC7R
@@ -24,23 +24,43 @@ bullet_points:
 special_order: false
 customizeable: true
 images:
-- id: 1
-  cf_src: https://assets.bartallama3d.design/listing-photos/28-c8-uniden-r1-r3/21.jpg
-  description: Photo showing this radar holder is only compatible with the Uniden R1 or R3 Radar units
-  title: Compatible Radar Units
-- id: 2
-  cf_src: https://assets.bartallama3d.design/listing-photos/28-c8-uniden-r1-r3/22.jpg
-  description: Photo showing this radar holder is only compatible with the C8 Corvette
-  title: Included parts
-- id: 3
+- cf_src: https://assets.bartallama3d.design/listing-photos/28/0_leader.jpg
+  description: Product Leader Image
+  id: 0
+  title: Product Leader Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/28/1_radars.jpg
+  description: Radars Product overview
+  id: 1
+  title: Radars Product overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/28/2_c8_corvette_platform.jpg
+  description: Vehicle Platform
+  id: 2
+  title: Vehicle Platform
+- cf_src: https://assets.bartallama3d.design/listing-photos/28/3_radar_overview_uniden_r13.jpg
+  description: Radar Holder overview
+  id: 3
+  title: Radar Holder overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/28/4_radar_compat_uniden_r13.jpg
+  description: Radar Compatibility table
+  id: 4
+  title: Radar Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/28/5_vehicle_compat_c8_corvette.jpg
+  description: Vehicle Compatibility table
+  id: 5
+  title: Vehicle Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/28/9_generic.jpg
+  description: Bartallama3D Marketing image
+  id: 6
+  title: Bartallama3D Marketing image
+- id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/28-c8-uniden-r1-r3/31.jpg
   description: A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
-- id: 4
+- id: 8
   cf_src: https://assets.bartallama3d.design/listing-photos/28-c8-uniden-r1-r3/32.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
-- id: 5
+- id: 9
   cf_src: https://assets.bartallama3d.design/listing-photos/28-c8-uniden-r1-r3/33.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
@@ -50,8 +70,8 @@ specs:
   Material: ABS
   Release Date: 09/22/2024
   Compatible Units: Uniden R1 or Uniden R3
-  Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 95 grams / 0.2 lbs / 3.35 oz
+  Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
+  Package Weight: 120 grams / 0.26 lbs / 4.2 oz
 compatible_vehicles:
   Corvette (C8): 2020 - 2025
 additional_links:
@@ -61,6 +81,8 @@ additional_links:
 revisions:
   - version: 1.0
     change_log: Initial release of the holder. The features found on this holder are derived from our Tesla Radar Holder which has undergone 3 iterations. 
+  - version: 1.1
+    change_log: Newer sturdier packaging and printed color inserts. The radar unit has been updated to support rotation up to 30 degrees in either direction. The vehicle platform has been updated to include a rubber pad under the lip that sits on the screen.
 ---
 
 Introducing the Bartallama3D™ Radar Holder for the Uniden R1 and R3 radar detectors. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a C8 Corvette. This radar holder is not compatible with any other vehicles. 

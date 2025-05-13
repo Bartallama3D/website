@@ -6,7 +6,7 @@ product_id_int: 5
 hidden: false
 name: Bartallama3D™ Radar Holder for Valentine One 2nd Generation compatible with Tesla Vehicles
 cost: "35.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/0.jpg
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/5/0_leader.jpg
 description: Mount for a Valentine One 2nd Generation for a Tesla
 etsy_link: https://www.etsy.com/listing/1767564861/valentine-one-2nd-generation-tesla-radar
 amazon_link: https://www.amazon.com/dp/B0CZTHNWD2
@@ -24,29 +24,50 @@ bullet_points:
 special_order: false
 customizeable: true
 images:
-- id: 3
-  cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/3.jpg
-  description: "Image showing the V1Gen2 radar it is compatible with"
-  title: Compatibility Chart
-- id: 4
+- cf_src: https://assets.bartallama3d.design/listing-photos/5/0_leader.jpg
+  description: Product Leader Image
+  id: 0
+  title: Product Leader Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/5/1_radars.jpg
+  description: Radars Product overview
+  id: 1
+  title: Radars Product overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/5/2_Tesla_platform.jpg
+  description: Vehicle Platform
+  id: 2
+  title: Vehicle Platform
+- cf_src: https://assets.bartallama3d.design/listing-photos/5/3_radar_overview_v1g2.jpg
+  description: Radar Holder overview
+  id: 3
+  title: Radar Holder overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/5/4_radar_compat_v1g2.jpg
+  description: Radar Compatibility table
+  id: 4
+  title: Radar Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/5/5_vehicle_compat_Tesla.jpg
+  description: Vehicle Compatibility table
+  id: 5
+  title: Vehicle Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/5/9_generic.jpg
+  description: Bartallama3D Marketing image
+  id: 6
+  title: Bartallama3D Marketing image
+- id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/4.jpg
   description: "Front view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Front View
-- id: 5
+- id: 8
   cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/5.jpg
   description: "Side view of the radar unit mounted on the center screen of a Tesla"
   title: Mounted in Tesla - Side View
-- id: 7
-  cf_src: https://assets.bartallama3d.design/listing-photos/5-tesla-valentine-one-rm-gen2/Compatible-Vehicles-Table.jpg
-  description: "Compatible Vehicles Table Photo"
-  title: Compatible Vehicles Table
+
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
   Release Date: 11/3/2023
   Compatible Units: Valentine One 2nd Generation Radar
-  Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 85 grams / 0.18 lbs / 3 oz
+  Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
+  Package Weight: 120 grams / 0.26 lbs / 4.2 oz
 compatible_vehicles:
   Tesla Model S: 2021 - 2025
   Tesla Model 3: 2017 - 2025
@@ -80,7 +101,7 @@ Key Features:
 - Radar holder supports rotation of 30 degrees in either direction
 - Simple and quick assembly
 
-This listing is for 1 mount and includes all parts needed for assembly and installation.
+This listing is for 1 holder and includes all parts needed for assembly and installation.
 
 Compatible Vehicles:
 - Tesla Model S - 2021 - 2025

@@ -5,8 +5,8 @@ product_id: 22-tesla-escort-max-360
 product_id_int: 22
 hidden: false
 name: Bartallama3D™ Radar Holder for Escort Max 360 compatible with Tesla Vehicles
-cost: "30.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/1.jpg
+cost: "35.00"
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/22/0_leader.jpg
 description: Mount for a Escort Max 360 for a Tesla
 etsy_link: https://www.etsy.com/listing/1764951300/escort-max-360-tesla-radar-holder-by?ref=listings_manager_grid
 amazon_link: https://www.amazon.com/dp/B0DCTKRX63
@@ -23,70 +23,61 @@ bullet_points:
 special_order: false
 customizeable: true
 images:
-- id: 1
-  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/1.jpg
-  description: A picture of the assembled unit from the left with installed Escort Max 360 radar
-  title: Assembled unit - left view
-
-- id: 2
-  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/2.jpg
-  description: A picture of the assembled unit from the right with installed Escort Max 360 radar
-  title: Assembled unit - right view
-
-- id: 3
-  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/11.jpg
-  description: Photo of what's included in the box
-  title: What's Included
-
-- id: 4
-  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/21.jpg
-  description: This radar holder is only compatible with the Escort Max 360. It was designed around the unique shape of the Escort Max 360 and only fits this specific radar unit perfectly.
-  title: Radar Compatibility Warning
-
-- id: 5
-  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/22.jpg
-  description: This series of our radar holder is Compatible with Telsa vehicles featuring the large landscape display in the vehicle. Cybertrucks require a different screen backer part and can be requested at purchase. 
-  title: Compatible Vehicles Table
-
-- id: 6
+- cf_src: https://assets.bartallama3d.design/listing-photos/22/0_leader.jpg
+  description: Product Leader Image
+  id: 0
+  title: Product Leader Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/22/1_radars.jpg
+  description: Radars Product overview
+  id: 1
+  title: Radars Product overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/22/2_Tesla_platform.jpg
+  description: Vehicle Platform
+  id: 2
+  title: Vehicle Platform
+- cf_src: https://assets.bartallama3d.design/listing-photos/22/3_radar_overview_escort_max_360.jpg
+  description: Radar Holder overview
+  id: 3
+  title: Radar Holder overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/22/4_radar_compat_escort_max_360.jpg
+  description: Radar Compatibility table
+  id: 4
+  title: Radar Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/22/5_vehicle_compat_Tesla.jpg
+  description: Vehicle Compatibility table
+  id: 5
+  title: Vehicle Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/22/9_generic.jpg
+  description: Bartallama3D Marketing image
+  id: 6
+  title: Bartallama3D Marketing image
+- id: 7
   cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/31.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed
   title: Car view - Front
-
-- id: 7
+- id: 8
   cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/32.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed, right view
   title: Car view - right 
-
-- id: 8
+- id: 9
   cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/33.jpg
   description: Radar holder installed in a Tesla with Uniden Radar unit installed showing the side profile with cable clips
   title: Car view - Side Profile
-
-- id: 9
-  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/61.jpg
-  description: A photo of our packaging from the front
-  title: Box - Front 
-
-- id: 10
-  cf_src: https://assets.bartallama3d.design/listing-photos/22-tesla-escort-max-360/62.jpg
-  description: A photo of our packaging from the back
-  title: Box - Back 
 
 specs:
   Colors: Black(Default) - Others available by request 
   Material: ABS
   Release Date: 08/10/2024
   Compatible Units: Escort Max 360 Only
-  Package Dimensions: 4.25 in x 3.75 in x 1.5 in (10.8 cm x 9.5 cm x 3.8cm) [HxWxD]
-  Package Weight: 90 grams / 0.2 lbs / 3.2 oz
+  Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
+  Package Weight: 120 grams / 0.26 lbs / 4.2 oz
   Note: This radar unit seems to have been discontinued by the manufacturer and superceeded by the Escort Max 360 MKII and Escort Max 360c MKII. We have a radar holder for the newer Escort Max 360 MKII.
 compatible_vehicles:
   Tesla Model S: 2021 - 2025
   Tesla Model 3: 2017 - 2025
   Tesla Model X: 2022 - 2025
   Tesla Model Y: 2020 - 2025
-  Tesla Cybertruck: Contact Us! Modified part required.
+  Tesla Cybertruck: 2025
 revisions:
   - version: 1.0
     change_log: Initial release of the holder
@@ -113,7 +104,7 @@ Compatible Vehicles:
 - Model 3: 2017 - 2025
 - Model X: 2022 - 2025
 - Model Y: 2020 - 2025
-- Cybertruck: 2025 (Requires a different screen backer. We sell this option on Etsy and Ebay)
+- Cybertruck: 2025
 
 The assembly and installation of this radar mount is similar to our Valentine One Radar mount for Teslas. A YouTube video featuring our 1st iteration of this radar mount could be found here: https://youtu.be/UG_un0AYOsU
 
