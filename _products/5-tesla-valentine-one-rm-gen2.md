@@ -10,7 +10,7 @@ cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/5/0_leader
 description: Mount for a Valentine One 2nd Generation for a Tesla
 etsy_link: https://www.etsy.com/listing/1767564861/valentine-one-2nd-generation-tesla-radar
 amazon_link: https://www.amazon.com/dp/B0CZTHNWD2
-ebay_link: https://www.ebay.com/itm/326255867444
+ebay_link: https://www.ebay.com/itm/326638951533
 youtube_link: https://youtu.be/UG_un0AYOsU
 youtube_embed_link: https://www.youtube.com/embed/UG_un0AYOsU
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf

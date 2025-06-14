@@ -11,7 +11,7 @@ description: Mount for a Escort Max 360 for a Tesla
 etsy_link: https://www.etsy.com/listing/1764951300/escort-max-360-tesla-radar-holder-by?ref=listings_manager_grid
 amazon_link: https://www.amazon.com/dp/B0DCTKRX63
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-ebay_link: https://www.ebay.com/itm/326234963782
+ebay_link: https://www.ebay.com/itm/326638966832
 youtube_link: 
 youtube_embed_link:
 bullet_points:

@@ -11,7 +11,7 @@ description: Mount for a Escort Redline 360c for a Tesla
 etsy_link: https://www.etsy.com/listing/1679418204/escort-redline-360c-mount-for-tesla
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 amazon_link: https://www.amazon.com/dp/B0D1JP4B1C
-ebay_link: https://www.ebay.com/itm/326182518989
+ebay_link: https://www.ebay.com/itm/326638953267
 youtube_link: https://youtu.be/OWW1zFBKoYk
 youtube_embed_link: https://www.youtube.com/embed/OWW1zFBKoYk
 bullet_points:
