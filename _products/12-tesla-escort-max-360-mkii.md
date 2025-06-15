@@ -89,6 +89,8 @@ revisions:
     change_log: Newer sturdier packaging and printed color inserts. Parts shipped are unchanged from version 1.2. 
   - version: 1.4
     change_log: Newer sturdier packaging and printed color inserts. Escort Max 360c holder has been changed to an Insert/Glove type holder from a tray type holder making the part stronger. The part also has light texture applied to surface to enhance visual appeal, features a satisfying click when inserting the radar unit into the holder, and also supports rotation up to 30 degrees in either direction to support Model S/X vehicles along with custom modded screens that have a tilt attachment added.
+  - version: 1.5
+    change_log: New adjustable platform allows for upward/downward adjustment of the entire radar unit. This should alleviate issues with Tesla screens with varying pitches and fully make this unit compatible with the model S/X. This also allows customers to adjust the upward/downward angle of the radar unit as they see fit. 
 
 ---
 

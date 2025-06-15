@@ -87,6 +87,8 @@ revisions:
     change_log: Newer sturdier packaging and printed color inserts. Parts shipped are unchanged from version 1.0
   - version: 1.2
     change_log: New version includes our new platform that has a built in rubber pad that sits against the screen along with an articulating rubber bumper making the unit sit better in a Model S/X. This unit also comes with a textured surface to enhance the radar holders aesthetic. 
+  - version: 1.3
+    change_log: New adjustable platform allows for upward/downward adjustment of the entire radar unit. This should alleviate issues with Tesla screens with varying pitches and fully make this unit compatible with the model S/X. This also allows customers to adjust the upward/downward angle of the radar unit as they see fit.
 ---
 
 Introducing the Bartallama3D™ Radar Holder for the Uniden R8 radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a Tesla screen. This radar holder is not compatible with any other vehicles. 
