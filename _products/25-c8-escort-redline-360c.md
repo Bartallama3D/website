@@ -13,7 +13,7 @@ amazon_link: https://www.amazon.com/dp/B0DHQZJYCL
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279899216
 youtube_link: https://www.youtube.com/UFwfAxo9Nhc
-youtube_embed_link:https://www.youtube.com/embed/UFwfAxo9Nhc
+youtube_embed_link: https://www.youtube.com/embed/UFwfAxo9Nhc
 bullet_points:
   - point: Mounts your radar detector on the screen and Securely holds the radar detector
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
