@@ -6,13 +6,12 @@ product_id_int: 40
 hidden: true
 name: Bartallama3D™ Precision-Fit Radar Holder for Escort MaxCam 360c and Tesla Vehicles
 cost: "35.00"
-
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 --- update all below this line --- 
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/ <<UPDATE>>
 description: Precision fit radar holder for a Uniden DFR7 designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1820255297/uniden-dfr7-corvette-c8-radar-holder-by
 amazon_link: https://www.amazon.com/dp/B0DLWF62TC
-cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326326874618
 youtube_link: 
 youtube_embed_link:
