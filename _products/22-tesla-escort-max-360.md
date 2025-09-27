@@ -83,6 +83,8 @@ revisions:
     change_log: Initial release of the holder
   - version: 1.1
     change_log: New adjustable platform allows for upward/downward adjustment of the entire radar unit. This should alleviate issues with Tesla screens with varying pitches and fully make this unit compatible with the model S/X. This also allows customers to adjust the upward/downward angle of the radar unit as they see fit.
+  - version: 1.2
+    change_log: Adjustable hinge platform is replaced with a new static platform with articulating arm. This should alleviate issues with Tesla screens with varying pitches and fully make this unit compatible with the model S/X. This also allows customers to adjust the upward/downward angle by about 15-20 degrees to match their Tesla. Also provides much better grip on the back of the screen. 
 ---
 
 Introducing the Bartallama3D™ Radar Holder for the Escort Max 360 radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a Tesla screen. This radar holder is not compatible with any other vehicles. 
