@@ -9,7 +9,7 @@ cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/42-unifi-cloudkey-gen2-wall-bracket/0.jpg
 description: Mount your Cloud Key on a wall
 etsy_link: 
-amazon_link: 
+amazon_link: https://www.amazon.com/dp/B0FZ9GVSQT
 ebay_link: 
 instruction_pdf: 
 youtube_link: 

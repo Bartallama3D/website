@@ -9,7 +9,7 @@ cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/43-unifi-cloudkey-gen2-half-rack/0.jpg
 description: Mount your Cloud Key in your 10" server rack
 etsy_link: 
-amazon_link: 
+amazon_link: https://www.amazon.com/dp/B0FZ9S6JTB
 ebay_link: 
 instruction_pdf: 
 youtube_link: 
