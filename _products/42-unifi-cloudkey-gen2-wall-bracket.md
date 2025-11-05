@@ -44,6 +44,8 @@ specs:
   Material: PETG
   Release Date: 11/2/2025
   Compatible Units: Unifi Cloud Key Gen2 Plus
+  Package Dimensions: 7.5" x 6.25" x 2"
+  Package Weight: 200g
 additional_links:
   - text: Cloud Key Gen2
     description: Unifi Cloud Key Gen2 Plus
