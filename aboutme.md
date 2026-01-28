@@ -28,3 +28,21 @@ items that don't exist on the market today. The goal will always be functionalit
 as possible. 
 
 Follow me on Instagram to see my stories and posts about 3D printing and design, and Subscribe to my Youtube channel to watch product demos and other fun content I have created. 
+
+### Stop the Print: Washington's Impossible "Firearms Detection Algorithm" Mandate
+
+Washington State has introduced House Bill 2321 as part of the 2026 legislative session, which would require all 3D printers sold in the state to include software that detects and blocks the printing of firearms or firearm components using a "firearms blueprint detection algorithm." We submitted comments to the Washington State House Committee on Civil Rights & Judiciary voicing our concerns, mainly:
+
+1. **The required detection technology is technically infeasible** — No algorithm can reliably distinguish a firearm receiver from a power drill handle based on geometry alone, and the bill's requirement to detect "modified versions" of files is computationally impossible.
+2. **The bill creates Prop 65-style compliance theater** — Overly broad detection will block legitimate prints while bad actors simply use older printers or modified firmware.
+3. **Economic harm through market withdrawal** — Manufacturers face felony liability for non-compliance with impossible requirements, incentivizing them to exit Washington entirely or lock down open-source ecosystems.
+4. **Cybersecurity and trade secret conflicts** — Businesses under ITAR or with proprietary designs cannot send files to government databases for pre-approval.
+5. **The penalty structure is backwards** — Selling a 3D printer without detection software carries harsher penalties than possessing an actual untraceable firearm.
+
+**[Read the letter we sent to the Washington State Legislature →](https://assets.bartallama3d.design/docs/HB_2321_Bartallama3D_opposition.pdf)**
+
+**[View House Bill 2321 on the Washington State Legislature website →](https://app.leg.wa.gov/billsummary?BillNumber=2321&Year=2025&Initiative=false)**
+
+---
+
+*Bartallama3D does not produce nor support the production of ghost guns or untraceable firearms.*
