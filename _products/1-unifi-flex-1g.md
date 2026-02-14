@@ -12,6 +12,7 @@ amazon_link: https://www.amazon.com/dp/B0DCTZWTWN
 ebay_link: https://www.ebay.com/itm/325964168260
 youtube_link: https://youtu.be/dVAJbxSx2nc
 youtube_embed_link: https://www.youtube.com/embed/dVAJbxSx2nc
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Unifi-Flex-Camera-Bracket-Assembly-Instructions.pdf
 bullet_points:
   - point: Fits Unifi Flex G3/G5 Cameras
   - point: Can be mounted in a 1-gang electrical remodel box or low voltage bracket
