@@ -8,9 +8,9 @@ name: Bartallama3D™ 1U Rackmount Kit for Firewalla Gold Pro
 cost: "70.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/47-firewalla-gold-pro-rackmount/0.jpg
 description: Firewalla Gold Rackmount Kit (Rack Ears, Power Brick Holder and Keystones)
-etsy_link: 
-amazon_link: 
-ebay_link: 
+etsy_link: https://bartallama3d.etsy.com/listing/4466930683/bartallama3d-1u-rackmount-kit-for
+amazon_link: https://www.amazon.com/dp/B0GR8KXQV1
+ebay_link: https://www.ebay.com/itm/327029908683
 #cf_instruction_pdf:
 bullet_points:
   - point: 1U form factor
@@ -19,6 +19,7 @@ bullet_points:
   - point: Comes with 4 Cat6 keystones for cable management
 special_order: false
 customizeable: true
+hsts_code: 9403.10.0040
 images:
 - id: 1
   cf_src: https://assets.bartallama3d.design/listing-photos/47-firewalla-gold-pro-rackmount/1.jpg
