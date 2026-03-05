@@ -3,7 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Firewalla Gold Pro Power Brick Holder
 product_id: 33-firewalla-gold-pro-power-brick-holder
 product_id_int: 33
-hidden: false
+hidden: true
 name: Bartallama3D™ Firewalla Gold Pro Power Brick Holder
 cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/33-firewalla-gold-pro-power-brick-holder/1.jpg

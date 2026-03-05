@@ -3,7 +3,7 @@ layout: product_listing
 title: Bartallama3D™ Firewalla Gold Pro 1U Rack Mount
 product_id: 32-firewalla-gold-pro-rack-ears
 product_id_int: 32
-hidden: false
+hidden: true
 name: Bartallama3D™ Firewalla Gold Pro 1U Rack Mount
 cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/32-firewalla-gold-pro-rack-ears/1.jpg
