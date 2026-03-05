@@ -11,7 +11,16 @@ page_name: Product Listing
     <div class="col-7">
       <h2>{{ page.name }}</h2>
       <span>{{ page.description }}</span>
-      <h3>${{ page.cost }} + Shipping
+      {% if page.discontinued %}
+            <div class="alert alert-danger" role="alert">
+              This product has been discontinued and is no longer sold.
+                {% if page.superceded_by_name and page.superceded_by_link %}
+                  <br/> Check out our <a href="{{page.superceded_by_link}}">{{ page.superceded_by_name }}</a> instead! 
+                {% endif %}
+            </div>
+      {% else %}
+        <h3>${{ page.cost }} + Shipping</h3>
+      {% endif %}
         <h3>Key Features:</h3>
         <ul>
           {% for bullet in page.bullet_points %}

@@ -20,6 +20,9 @@ bullet_points:
   - point: Comes with all required hardware for installation
 special_order: false
 customizeable: false
+discontinued: true
+superceded_by_name: Bartallama3D™ Firewalla Gold Pro Rackmount Kit
+superceded_by_link: https://Bartallama3d.design/products/47-firewalla-gold-pro-rackmount
 images:
 - id: 1
   cf_src: https://assets.bartallama3d.design/listing-photos/32-firewalla-gold-pro-rack-ears/2.jpg

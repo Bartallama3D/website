@@ -25,7 +25,9 @@ images:
   cf_src: https://assets.bartallama3d.design/listing-photos/33-firewalla-gold-pro-power-brick-holder/2.jpg
   description: Photo showing the included parts with this holder
   title: Included parts
-  
+discontinued: true
+superceded_by_name: Bartallama3D™ Firewalla Gold Pro Rackmount Kit
+superceded_by_link: https://Bartallama3d.design/products/47-firewalla-gold-pro-rackmount
 specs:
   Colors: Black(Default) - Others available by request 
   Material: PETG
