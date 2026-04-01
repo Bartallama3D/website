@@ -8,9 +8,9 @@ name: Bartallama3D™ 1U Full-Width Steel Rackmount Bracket for UniFi Cloud Key 
 cost: "60.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/15-unifi-cloud-key-full-1-slot/0.jpg
 description: Mount your Cloud Key in your server rack
-#etsy_link: 
-#amazon_link: 
-#ebay_link: 
+etsy_link: https://www.etsy.com/listing/4481144428/bartallama3d-1u-full-width-steel
+amazon_link: https://www.amazon.com/dp/B0GVMWGY29
+ebay_link: https://www.ebay.com/itm/327078973915
 #youtube_link: 
 #youtube_embed_link:
 bullet_points:
