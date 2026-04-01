@@ -83,6 +83,8 @@ revisions:
     change_log: Initial release of the holder building on the innovation of our other holders! 
   - version: 1.1
     change_log: Newer sturdier packaging and printed color inserts. The radar unit has been updated to support rotation up to 30 degrees in either direction. The vehicle platform has been updated to include a rubber pad under the lip that sits on the screen.
+  - version: 1.2
+    change_log: This version ships with a new platform that supports both the thinner screen found on C8 Corvette's 2020 - 2025 and the new thicker screen found on the 2026 C8 Corvette.
 ---
 <img src="https://assets.bartallama3d.design/premium-content/radar-holders/header.jpg">
 <img src="https://assets.bartallama3d.design/premium-content/radar-holders/radar_description.jpg">

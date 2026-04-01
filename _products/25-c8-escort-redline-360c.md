@@ -85,6 +85,8 @@ revisions:
     change_log: The vehicle platform has been updated to include a rubber pad under the lip that sits on the screen.
   - version: 1.2
     change_log: Newer sturdier packaging and printed color inserts. Radar holder now comes with a surface texture applied to enhance visual appeal. 
+  - version: 1.3
+    change_log: This version ships with a new platform that supports both the thinner screen found on C8 Corvette's 2020 - 2025 and the new thicker screen found on the 2026 C8 Corvette.
 ---
 Introducing the Bartallama3D™ Radar Holder for the Escort Redline 360c radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a C8 Corvette. This radar holder is not compatible with any other vehicles. 
 

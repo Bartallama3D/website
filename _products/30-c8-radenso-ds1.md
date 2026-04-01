@@ -57,6 +57,8 @@ additional_links:
 revisions:
   - version: 1.0
     change_log: Initial release of the holder. The features found on this holder are derived from our Tesla Radar Holder which has undergone 3 iterations. 
+  - version: 1.1
+    change_log: This version ships with a new platform that supports both the thinner screen found on C8 Corvette's 2020 - 2025 and the new thicker screen found on the 2026 C8 Corvette.
 ---
 
 Introducing the Bartallama3D™ Radar Holder for the Radenso DS1 radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a C8 Corvette. This radar holder is not compatible with any other vehicles. 
