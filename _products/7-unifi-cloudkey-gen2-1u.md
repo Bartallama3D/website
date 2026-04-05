@@ -72,7 +72,12 @@ revisions:
   - version: 1.0
     change_log: Initial release of the bracket. Packed in plastic bags. with all required hardware
   - version: 1.1
-    change_log: Package into boxes with color labels and descriptive labels on the back. Available via Amazon Prime. Cage Nuts and Rack Screws added to product packaging. 
+    change_log: Package into boxes with color labels and descriptive labels on the back. Cage Nuts and Rack Screws added to product packaging. 
+  - version: 1.2
+    change_log: updated packaging. Unit now has a textured surface applied. 
+  - version: 1.3
+    change_log: unit now comes with a steel face plate for mounting in the rack providing a rigid mount to the rack. Rest of the unit remains plastic to hold the cloud key in place.
+
 ---
 
 Introducing our 3D printed Unifi Cloud Key G2 Plus 1U Bracket. This bracket allows you to mount your Cloud Key in a standard server rack. The brackets supports mounting on either the left or right side of the rack and takes up only 1U (1.75inches) inches of vertical space in your rack. The bracket is designed to be tight around your cloud key but also has both the top and bottom open to allow for open air cooling of the device.  
