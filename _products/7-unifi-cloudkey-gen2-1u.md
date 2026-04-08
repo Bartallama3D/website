@@ -8,9 +8,9 @@ name: Bartallama3D™ 1U Steel Rackmount bracket for Unifi Cloud Key G2
 cost: "34.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/7-unifi-cloudkey-gen2-1u/0.jpg
 description: Mount your Cloud Key in your server rack
-etsy_link: 
-amazon_link: 
-ebay_link: 
+etsy_link: https://www.etsy.com/listing/1693598255/unifi-cloud-key-g2-rackmount-bracket
+amazon_link: https://www.amazon.com/dp/B0GWHMRCCX
+ebay_link: https://www.ebay.com/itm/325962152120
 instruction_pdf: 
 youtube_link: 
 youtube_embed_link: 
@@ -72,4 +72,4 @@ revisions:
 Introducing our Unifi Cloud Key G2 Plus 1U Steel Bracket. This bracket allows you to mount your Cloud Key in a standard server rack. The brackets supports mounting on either the left or right side of the rack and takes up only 1U (1.75inches) inches of vertical space in your rack. The bracket is designed to be tight around your cloud key but also has both the top and bottom open to allow for open air cooling of the device. The front face plate is made of steel for a rigid installation in your server rack with a plastic back plate to hold your Cloud key snug in place. 
 
 ** Cloud Key is not included. Mounting hardware for standard server racks is included.  
-** We are not affiliated with, collaborating with, or endorsed by Ubiquiti. This product is a 3D Printed, custom designed accessory.
+** We are not affiliated with, collaborating with, or endorsed by Ubiquiti. This product is a custom designed accessory.
