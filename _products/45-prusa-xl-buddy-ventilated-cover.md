@@ -8,9 +8,9 @@ name: Bartallama3D™ Steel Buddy Box Ventilated Cover for Prusa XL with GDSTime
 cost: "49.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/45-prusa-xl-buddy-ventilated-cover/0.jpg
 description: Keep your Prusa XL electronics cool
-etsy_link: 
-amazon_link: 
-ebay_link: 
+etsy_link: https://www.etsy.com/listing/4485020567/bartallama3d-steel-buddy-box-ventilated
+amazon_link: https://www.amazon.com/dp/B0GWHGGV9C
+ebay_link: https://www.ebay.com/itm/327091457055
 instruction_pdf: 
 youtube_link: 
 youtube_embed_link: 
@@ -63,4 +63,4 @@ Built around a steel cover with purpose-designed ventilation cutouts, this upgra
 
 Want to use a Noctua Fan instead? We have a version that includes a 24V -> 12V step-down converter and allows you to use a Noctua Fan instead! 
 
-*** This is a custom designed accessory for the Prusa XL. We are not affiliated with, endorsed by, or collaboring with Prusa on this accessory. 
+*** This is a custom-designed accessory for the Prusa XL. We are not affiliated with, endorsed by, or collaborating with Prusa on this accessory.

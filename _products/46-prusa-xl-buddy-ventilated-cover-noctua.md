@@ -8,9 +8,9 @@ name: Bartallama3D™ Steel Buddy Box Ventilated Cover for Prusa XL - Noctua NF-
 cost: "49.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/46-prusa-xl-buddy-ventilated-cover-noctua/0.jpg
 description: Keep your Prusa XL electronics cool
-etsy_link: 
-amazon_link: 
-ebay_link: 
+etsy_link: https://www.etsy.com/listing/4485020323/bartallama3d-steel-buddy-box-ventilated
+amazon_link: https://www.amazon.com/dp/B0GWHC82GT
+ebay_link: https://www.ebay.com/itm/327091457965
 instruction_pdf: 
 youtube_link: 
 youtube_embed_link: 
