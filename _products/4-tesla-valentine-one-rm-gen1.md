@@ -11,7 +11,7 @@ description: Mount for a Valentine One Gen1 for a Tesla
 etsy_link: https://www.etsy.com/listing/1560892594/valentine-one-mount-for-tesla-3d-printed
 amazon_link: https://www.amazon.com/dp/B0D1JS1NDK
 ebay_link: 
-youtube_link: https://youtu.be/FaedwaeJRgI?si=apGYCbYPDp2wrJwB
+youtube_link: https://youtu.be/FaedwaeJRgI
 youtube_embed_link: https://www.youtube.com/embed/FaedwaeJRgI
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 bullet_points:
