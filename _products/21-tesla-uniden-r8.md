@@ -106,7 +106,7 @@ Compatible Vehicles:
 - Model Y: 2020 - 2026
 - Cybertruck: 2024 - 2026
 
-The assembly and installation of this radar mount is similar to our Valentine One Radar mount for Teslas. A YouTube video featuring our 1st iteration of this radar mount could be found here: https://youtu.be/FaedwaeJRgI
+The assembly and installation of this radar mount can be found here: https://youtu.be/FaedwaeJRgI
 
 
 Disclaimer: We are not affiliated with, collaborating with, or endorsed by Uniden. This product is a custom designed accessory.

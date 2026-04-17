@@ -5,74 +5,59 @@ product_id: 24-c8-valentine-one-gen2
 product_id_int: 24
 hidden: false
 name: Bartallama3D™ Radar Holder for Valentine One 2nd Generation compatible with C8 Corvette
-cost: "35.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/24/0_leader.jpg
+cost: "37.99"
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/24/0.jpg
 description: Precision fit radar holder for a Valentine One 2nd Generation designed to fit the C8 Corvette
 etsy_link: https://bartallama3d.etsy.com/listing/1784621610/valentine-one-2nd-generation-corvette-c8
 amazon_link: https://www.amazon.com/dp/B0DHR3YVYJ
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 ebay_link: https://www.ebay.com/itm/326279898546
-youtube_link: 
-youtube_embed_link:
+youtube_link: https://youtu.be/_mi9e0iqWJU
+youtube_embed_link: https://www.youtube.com/embed/_mi9e0iqWJU
 bullet_points:
-  - point: Mounts your radar detector on the screen and Securely holds the radar detector
+  - point: Mounts your radar detector on the center screen and Securely holds the radar detector
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
+  - point: Adjustable upward/downward pitch via the adjustable foot
   - point: Integrated cable clips for clean cable management down the back of your screen
-  - point: Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
+  - point: Printed from high temperature ABS for hot Dashboard temps
   - point: Designed specifically for the C8 Corvette for a clean and precise fit
-  - point: Simple and quick assembly
+  - point: Simple and quick assembly (4 screws!)
 special_order: false
 customizeable: true
 images:
-- cf_src: https://assets.bartallama3d.design/listing-photos/24/0_leader.jpg
-  description: Product Leader Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/24/0.jpg
+  description: Product Image
   id: 0
-  title: Product Leader Image
-- cf_src: https://assets.bartallama3d.design/listing-photos/24/1_radars.jpg
-  description: Radars Product overview
+  title: Product Image
+- cf_src: https://assets.bartallama3d.design/listing-photos/24/1.jpg
+  description: This unit is only compatible with the Valentine One 2nd Generation Radar Unit
   id: 1
-  title: Radars Product overview
-- cf_src: https://assets.bartallama3d.design/listing-photos/24/2_c8_corvette_platform.jpg
-  description: Vehicle Platform
+  title: Compatible Radar Units
+- cf_src: https://assets.bartallama3d.design/listing-photos/24/2.jpg
+  description:  A photo of the radar holder installed in a C8 Corvette
+  title: Installation Photo
   id: 2
-  title: Vehicle Platform
-- cf_src: https://assets.bartallama3d.design/listing-photos/24/3_radar_overview_v1g2.jpg
-  description: Radar Holder overview
+- cf_src: https://assets.bartallama3d.design/listing-photos/24/3.jpg
+  description:  A photo of the radar holder installed in a C8 Corvette
+  title: Installation Photo
   id: 3
-  title: Radar Holder overview
-- cf_src: https://assets.bartallama3d.design/listing-photos/24/4_radar_compat_v1g2.jpg
-  description: Radar Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/24/4.jpg
+  description:  A photo of the radar holder installed in a C8 Corvette
+  title: Installation Photo
   id: 4
-  title: Radar Compatibility table
-- cf_src: https://assets.bartallama3d.design/listing-photos/24/5_vehicle_compat_c8_corvette.jpg
-  description: Vehicle Compatibility table
+- cf_src: https://assets.bartallama3d.design/listing-photos/24/5.jpg
+  description: This unit is compatible only with the C8 Corvette 2020 - 2026
   id: 5
   title: Vehicle Compatibility table
-- cf_src: https://assets.bartallama3d.design/listing-photos/24/9_generic.jpg
-  description: Bartallama3D Marketing image
-  id: 6
-  title: Bartallama3D Marketing image
-- id: 7
-  cf_src: https://assets.bartallama3d.design/listing-photos/24-c8-valentine-one-gen2/31.jpg
-  description: A photo of the radar holder installed in a C8 Corvette
-  title: Installation Photo
-- id: 8
-  cf_src: https://assets.bartallama3d.design/listing-photos/24-c8-valentine-one-gen2/32.jpg
-  description:  A photo of the radar holder installed in a C8 Corvette
-  title: Installation Photo
-- id: 9
-  cf_src: https://assets.bartallama3d.design/listing-photos/24-c8-valentine-one-gen2/33.jpg
-  description:  A photo of the radar holder installed in a C8 Corvette
-  title: Installation Photo
 specs:
-  Colors: Black(Default) - Others available by request 
+  Colors: Black
   Material: ABS
   Release Date: 09/22/2024
   Compatible Units: Valentine One 2nd Generation Radar
   Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
   Package Weight: 120 grams / 0.26 lbs / 4.2 oz
 compatible_vehicles:
-  Corvette (C8): 2020 - 2025
+  Corvette (C8): 2020 - 2026
 additional_links:
   - text: Valentine One 2nd Generation Radar Unit
     description: Valentine One 2nd Generation Radar Detector
@@ -84,17 +69,20 @@ revisions:
     change_log: Newer sturdier packaging and printed color inserts. Valentine One Gen2 holder has been changed to an Insert/Glove type holder from a tray type holder making the part stronger. The part also features a satisfying click when inserting the radar unit into the holder and also supports rotation up to 30 degrees in either direction. The vehicle platform has been updated to include a rubber pad under the lip that sits on the screen.
   - version: 1.2
     change_log: This version ships with a new platform that supports both the thinner screen found on C8 Corvette's 2020 - 2025 and the new thicker screen found on the 2026 C8 Corvette.
+  - version: 2.0 
+    change_log: Redesign focused around ease of assembly. Unit now assembles with only 3 screws and the 4th screw is the adjustable foot screw. Version 2.0 is not compatible with prior versions due to the changing of the mounting pattern/attachment method. Version 2.0 also supports the new 2026 C8 Corvette design.     
 ---
 
-Introducing the Bartallama3D™ Radar Holder for the 2nd Generation Valentine One radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a C8 Corvette. This radar holder is not compatible with any other vehicles. 
+Introducing the Bartallama3D™ Radar Holder for the 2nd Generation Valentine One radar detector. This radar holder is not compatible with any other vehicles. 
 
 Key Features:
 - Mounts your radar detector on the center screen and securely holds the radar detector
 - Non-Permanent Installation, easily remove and stow radar when needed
+- Adjustable upward/downward pitch via the adjustable foot
 - Integrated cable clips for clean cable management down the back of your screen
-- Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
+- Printed from high temperature ABS for hot Dashboard temps
 - Designed specifically for the C8 Corvette for a clean and precise fit
-- Simple and quick assembly
+- Simple and quick assembly (4 screws!)
 
 This package includes:
 - Custom precise fit holder for the Valentine One 2nd generation radar unit
@@ -103,10 +91,8 @@ This package includes:
 - Instruction QR code
 
 Compatible Vehicles:
-- C8 Corvette 2020 - 2025
+- C8 Corvette 2020 - 2026
 
-The assembly and installation of this radar mount is similar to our Valentine One Radar mount for Teslas. A YouTube video featuring our 1st iteration of this radar mount could be found here: https://youtu.be/UG_un0AYOsU
+The assembly and installation of this radar mount can be found here: https://www.youtube.com/watch?v=_mi9e0iqWJU
 
-* Please note, we have updated our radar holders since this first iteration video with new features. Leveraging the advanced capabilities of 3D printing, we can iterate on product designs quickly, allowing us to incorporate new features into our radar units without lengthy cycles. This ensures that our products remain at the forefront of innovation and meet the evolving needs of our customers. As our products are constantly evolving, we take feedback very seriously, so if you have any ideas on how this product could be improved, please send us a note!
-
-Disclaimer: We are not affiliated with, collaborating with, or endorsed by Valentine One. This product is a 3D Printed, custom designed accessory.
+Disclaimer: We are not affiliated with, collaborating with, or endorsed by Valentine One. This product is a custom designed accessory.
