@@ -8,10 +8,13 @@ name: Bartallama3D™ Radar Holder for Uniden R1 or R3 compatible with Telsa Veh
 cost: "37.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/20/0.jpg
 description: Mount for a Uniden R1 or R3 for Tesla Vehicles
-etsy_link: https://www.etsy.com/listing/1779141705/uniden-r3-tesla-radar-holder-by
-amazon_link: https://www.amazon.com/dp/B0DCTKYHX5
+
+etsy_link: https://bartallama3d.etsy.com/listing/4489995851/uniden-r1-or-r3-tesla-radar-holder-by
+amazon_link: https://www.amazon.com/dp/B0GXHNS569
+ebay_link: https://www.ebay.com/itm/327107419076
+
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-ebay_link: https://www.ebay.com/itm/326638960172
+
 youtube_link: https://youtu.be/FaedwaeJRgI
 youtube_embed_link: https://www.youtube.com/embed/FaedwaeJRgI
 bullet_points:
@@ -19,7 +22,7 @@ bullet_points:
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - point: Adjustable upward/downward pitch via the adjustable foot
   - point: Integrated cable clips for clean cable management down the back of your screen
-  - point: Printed from high temperature ABS for hot Dashboard temps
+  - point: Made from high temperature ABS for hot Dashboard temps
   - point: Simple and quick assembly (4 screws!)
 special_order: false
 customizeable: true
@@ -88,7 +91,7 @@ Key Features:
   - Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - Adjustable upward/downward pitch via the adjustable foot
   - Integrated cable clips for clean cable management down the back of your screen
-  - Printed from high temperature ABS for hot Dashboard temps
+  - Made from high temperature ABS for hot Dashboard temps
   - Simple and quick assembly (4 screws!)
 
 This package includes:
@@ -105,6 +108,5 @@ Compatible Vehicles:
 - Cybertruck: 2024 - 2026
 
 The assembly and installation of this radar mount can be found here: https://youtu.be/FaedwaeJRgI
-
 
 Disclaimer: We are not affiliated with, collaborating with, or endorsed by Uniden. This product is a custom designed accessory.

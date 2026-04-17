@@ -8,9 +8,9 @@ name: Bartallama3D™ Radar Holder for Valentine One 2nd Generation compatible w
 cost: "37.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/5/0.jpg
 description: Mount for a Valentine One 2nd Generation for a Tesla
-etsy_link: https://www.etsy.com/listing/1767564861/valentine-one-2nd-generation-tesla-radar
-amazon_link: https://www.amazon.com/dp/B0CZTHNWD2
-ebay_link: https://www.ebay.com/itm/326638951533
+etsy_link: https://bartallama3d.etsy.com/listing/4489993547/valentine-one-2nd-generation-tesla-radar
+amazon_link: https://www.amazon.com/dp/B0GXHBBZMZ
+ebay_link: https://www.ebay.com/itm/327107416293
 youtube_link: https://youtu.be/FaedwaeJRgI
 youtube_embed_link: https://www.youtube.com/embed/FaedwaeJRgI
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
@@ -19,7 +19,7 @@ bullet_points:
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - point: Adjustable upward/downward pitch via the adjustable foot
   - point: Integrated cable clips for clean cable management down the back of your screen
-  - point: Printed from high temperature ABS for hot Dashboard temps
+  - point: Made from high temperature ABS for hot Dashboard temps
   - point: Simple and quick assembly (4 screws!)
 special_order: false
 customizeable: true
@@ -83,18 +83,24 @@ revisions:
 Introducing the Bartallama3D™ Radar Holder for the Valentine One 2nd Generation, designed specifically for Tesla vehicles. This sleek mount securely holds your radar detector on the center screen, ensuring it stays in place while driving. With integrated cable clips for clean cable management, simple assembly, and a secure fit to prevent shifting, this holder is the perfect accessory for your Tesla.
 
 Key Features:
-- Mounts your radar detector on the center screen and securely holds the radar detector
-- Non-Permanent Installation, easily remove and stow radar when needed
-- Integrated cable clips for clean cable management down the back of your screen
-- Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
-- Radar holder supports rotation of 30 degrees in either direction
-- Simple and quick assembly
+  - Mounts your radar detector on the center screen and Securely holds the radar detector
+  - Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
+  - Adjustable upward/downward pitch via the adjustable foot
+  - Integrated cable clips for clean cable management down the back of your screen
+  - Made from high temperature ABS for hot Dashboard temps
+  - Simple and quick assembly (4 screws!)
 
 This listing is for 1 holder and includes all parts needed for assembly and installation.
 
 Compatible Vehicles:
-- Tesla Model S - 2021 - 2025
-- Tesla Model 3 - 2017 - 2025
-- Tesla Model X - 2022 - 2025
-- Tesla Model Y - 2020 - 2025
-- Tesla Cyber Truck - 2025
+- Tesla Model S - 2021 - 2026
+- Tesla Model 3 - 2017 - 2026
+- Tesla Model X - 2022 - 2026
+- Tesla Model Y - 2020 - 2026
+- Tesla Cyber Truck - 2024 - 2026
+
+
+The assembly and installation of this radar mount can be found here: https://youtu.be/FaedwaeJRgI
+
+
+Disclaimer: We are not affiliated with, collaborating with, or endorsed by Valentine One. This product is a custom designed accessory.

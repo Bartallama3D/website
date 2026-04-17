@@ -1,17 +1,19 @@
 ---
 layout: product_listing
-title: Bartallama3D™ Radar Holder for Uniden R8 compatible with Telsa Vehicles
+title: Bartallama3D™ Radar Holder for Uniden R8/R8W compatible with Telsa Vehicles
 product_id: 21-tesla-uniden-r8
 product_id_int: 21
 hidden: false
-name: Bartallama3D™ Radar Holder for Uniden R8 compatible with Telsa Vehicles
+name: Bartallama3D™ Radar Holder for Uniden R8/R8W compatible with Telsa Vehicles
 cost: "37.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/21/0.jpg
-description: Mount for a Uniden R8 for Tesla Vehicles
-etsy_link: https://www.etsy.com/listing/1764487532/uniden-r8-tesla-radar-holder-by?ref=listings_manager_grid
-amazon_link: https://www.amazon.com/dp/B0DCTKJQBV
+description: Mount for a Uniden R8/R8W for Tesla Vehicles
+etsy_link: https://bartallama3d.etsy.com/listing/4489996193/uniden-r8r8w-tesla-radar-holder-by
+amazon_link: https://www.amazon.com/dp/B0GXJCXNVP
+ebay_link: https://www.ebay.com/itm/327107419750
+
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-ebay_link: https://www.ebay.com/itm/326638965319
+
 youtube_link: https://youtu.be/FaedwaeJRgI
 youtube_embed_link: https://www.youtube.com/embed/FaedwaeJRgI
 bullet_points:
@@ -19,7 +21,7 @@ bullet_points:
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - point: Adjustable upward/downward pitch via the adjustable foot
   - point: Integrated cable clips for clean cable management down the back of your screen
-  - point: Printed from high temperature ABS for hot Dashboard temps
+  - point: Made from high temperature ABS for hot Dashboard temps
   - point: Simple and quick assembly (4 screws!)
 special_order: false
 customizeable: true
@@ -83,14 +85,14 @@ revisions:
     change_log: Redesign focused around ease of assembly. Unit now assembles with only 3 screws and the 4th screw is the adjustable foot screw. Version 2.0 is not compatible with prior versions due to the changing of the mounting pattern/attachment method. 
 ---
 
-Introducing the Bartallama3D™ Radar Holder for the Uniden R8 radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a Tesla screen. This radar holder is not compatible with any other vehicles. 
+Introducing the Bartallama3D™ Radar Holder for the Uniden R8/R8W radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a Tesla screen. This radar holder is not compatible with any other vehicles. 
 
 Key Features:
   - Mounts your radar detector on the center screen and Securely holds the radar detector
   - Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - Adjustable upward/downward pitch via the adjustable foot
   - Integrated cable clips for clean cable management down the back of your screen
-  - Printed from high temperature ABS for hot Dashboard temps
+  - Made from high temperature ABS for hot Dashboard temps
   - Simple and quick assembly (4 screws!)
 
 This package includes:

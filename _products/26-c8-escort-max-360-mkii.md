@@ -1,17 +1,19 @@
 ---
 layout: product_listing
-title: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with C8 Corvette
+title: Bartallama3D™ Radar Holder for Escort Max 360 MKII, Max 360c, and Max 360c MKII compatible with C8 Corvette
 product_id: 26-c8-escort-max-360-mkii
 product_id_int: 26
 hidden: false
-name: Bartallama3D™ Radar Holder for Escort Max 360 MKII compatible with C8 Corvette
+name: Bartallama3D™ Radar Holder for Escort Max 360 MKII, Max 360c, and Max 360c MKII compatible with C8 Corvette
 cost: "37.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/26/0.jpg
-description: Precision fit radar holder for an Escort Max 360 MKII designed to fit the C8 Corvette
-etsy_link: https://bartallama3d.etsy.com/listing/1784622648/escort-max-360-mkii-corvette-c8-radar
-amazon_link: https://www.amazon.com/dp/B0DHR3B8K2
+description: Precision fit radar holder for an Escort Max 360 MKII, Max 360c, and Max 360c MKII designed to fit the C8 Corvette
+
+etsy_link: https://bartallama3d.etsy.com/listing/4489997431/escort-max-360-mkii-corvette-c8-radar
+amazon_link: https://www.amazon.com/dp/B0GXHXNSX8
+ebay_link: https://www.ebay.com/itm/327107427112
+
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-ebay_link: https://www.ebay.com/itm/326279900156
 youtube_link: https://youtu.be/_mi9e0iqWJU
 youtube_embed_link: https://www.youtube.com/embed/_mi9e0iqWJU
 bullet_points:
@@ -19,7 +21,7 @@ bullet_points:
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - point: Adjustable upward/downward pitch via the adjustable foot
   - point: Integrated cable clips for clean cable management down the back of your screen
-  - point: Printed from high temperature ABS for hot Dashboard temps
+  - point: Made from high temperature ABS for hot Dashboard temps
   - point: Designed specifically for the C8 Corvette for a clean and precise fit
   - point: Simple and quick assembly (4 screws!)
 special_order: false
@@ -77,7 +79,7 @@ Key Features:
 - Non-Permanent Installation, easily remove and stow radar when needed
 - Adjustable upward/downward pitch via the adjustable foot
 - Integrated cable clips for clean cable management down the back of your screen
-- Printed from high temperature ABS for hot Dashboard temps
+- Made from high temperature ABS for hot Dashboard temps
 - Designed specifically for the C8 Corvette for a clean and precise fit
 - Simple and quick assembly (4 screws!)
 

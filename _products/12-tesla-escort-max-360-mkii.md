@@ -8,10 +8,12 @@ name: Bartallama3D™ Radar Holder for Escort Max 360c MKII, 360 MKII, and 360c 
 cost: "37.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/12/0.jpg
 description: Mount for a Escort Max 360c MKII, Max 360c, or Max 360 MKII for a Tesla
-etsy_link: https://www.etsy.com/listing/1726155719/bartallama3d-radar-holder-for-escort-max
-amazon_link: https://www.amazon.com/dp/B0D3C1K8J4
+
+etsy_link: https://bartallama3d.etsy.com/listing/4490007102/escort-max-360c-mkii-tesla-radar-holder
+amazon_link: https://www.amazon.com/dp/B0GXHVTJKJ
+ebay_link: https://www.ebay.com/itm/327107417645
+
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-ebay_link: https://www.ebay.com/itm/326115050964
 youtube_link: https://youtu.be/FaedwaeJRgI
 youtube_embed_link: https://www.youtube.com/embed/FaedwaeJRgI
 bullet_points:
@@ -19,7 +21,7 @@ bullet_points:
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
   - point: Adjustable upward/downward pitch via the adjustable foot
   - point: Integrated cable clips for clean cable management down the back of your screen
-  - point: Printed from high temperature ABS for hot Dashboard temps
+  - point: Made from high temperature ABS for hot Dashboard temps
   - point: Simple and quick assembly (4 screws!)
 special_order: false
 customizeable: true
@@ -81,11 +83,27 @@ revisions:
     change_log: Redesign focused around ease of assembly. Unit now assembles with only 3 screws and the 4th screw is the adjustable foot screw. Version 2.0 is not compatible with prior versions due to the changing of the mounting pattern/attachment method. 
 ---
 
-Introducing the Bartallama3D™ Radar Holder for Escort Max 360 MKII, designed specifically for Tesla vehicles. This sleek mount securely holds your radar detector on the center screen, ensuring it stays in place while driving. With integrated cable clips for clean cable management, simple assembly, and a secure fit to prevent shifting, this holder is the perfect accessory for your Tesla.
+Introducing the Bartallama3D™ Radar Holder for Escort Max 360 MKII, Max 360c, and Max 360c MKII designed specifically for Tesla vehicles. This sleek mount securely holds your radar detector on the center screen, ensuring it stays in place while driving. With integrated cable clips for clean cable management, simple assembly, and a secure fit to prevent shifting, this holder is the perfect accessory for your Tesla.
+
+Key Features:
+  - Mounts your radar detector on the center screen and Securely holds the radar detector
+  - Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
+  - Adjustable upward/downward pitch via the adjustable foot
+  - Integrated cable clips for clean cable management down the back of your screen
+  - Made from high temperature ABS for hot Dashboard temps
+  - Simple and quick assembly (4 screws!)
+
+This listing is for 1 holder and includes all parts needed for assembly and installation.
+
+Compatible Vehicles:
+- Tesla Model S - 2021 - 2026
+- Tesla Model 3 - 2017 - 2026
+- Tesla Model X - 2022 - 2026
+- Tesla Model Y - 2020 - 2026
+- Tesla Cyber Truck - 2024 - 2026
 
 
-\* Escort Max 360 MKII Radar Detector not included
+The assembly and installation of this radar mount can be found here: https://youtu.be/FaedwaeJRgI
 
-\*\* If you require a custom order, custom colors, or changes please reach out for assistance.
 
-\*\*\* Huge thank you to one of my customers for providing their Escort Max 360 MKII unit to create this bracket! 
+Disclaimer: We are not affiliated with, collaborating with, or endorsed by Escort Radar. This product is a custom designed accessory.
