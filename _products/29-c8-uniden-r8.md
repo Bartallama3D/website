@@ -63,7 +63,7 @@ additional_links:
   - text: Uniden R8
     description: Uniden R8 Radar Detector
     link: https://uniden.com/products/r8
-    - text: Uniden R8
+  - text: Uniden R8W
     description: Uniden R8W Radar Detector
     link: https://uniden.com/products/r8w
 revisions:
