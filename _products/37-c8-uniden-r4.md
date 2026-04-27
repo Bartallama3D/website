@@ -1,83 +1,67 @@
 ---
 layout: product_listing
-title: Bartallama3D™ Precision-Fit Radar Holder for Uniden R4 and C8 Corvette
+title: Bartallama3D™ Precision-Fit Radar Holder for Uniden R4/R4W and C8 Corvette
 product_id: 37-c8-uniden-r4
 product_id_int: 37
 hidden: false
-name: Bartallama3D™ Precision-Fit Radar Holder for Uniden R4 and C8 Corvette
-cost: "35.00"
-cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/37/0_leader.jpg
-description: Precision fit radar holder for a Uniden R4 designed to fit the C8 Corvette
-etsy_link: https://bartallama3d.etsy.com/listing/1820254793/uniden-r4-corvette-c8-radar-holder-by
-amazon_link: https://www.amazon.com/dp/B0DLW9RHRW
+name: Bartallama3D™ Precision-Fit Radar Holder for Uniden R4/R4W and C8 Corvette
+cost: "37.99"
+cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/37/0.jpg
+description: Precision fit radar holder for a Uniden R4/R4W designed to fit the C8 Corvette
+etsy_link: 
+amazon_link: 
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-ebay_link: https://www.ebay.com/itm/326326873705
-youtube_link: 
-youtube_embed_link:
+ebay_link: 
+youtube_link: https://youtu.be/_mi9e0iqWJU
+youtube_embed_link: https://www.youtube.com/embed/_mi9e0iqWJU
 bullet_points:
-  - point: Mounts your radar detector on the screen and Securely holds the radar detector
+  - point: Mounts your radar detector on the center screen and Securely holds the radar detector
   - point: Non-Permanent Installation, rubber bumper prevents movement and enables easy removal for storage
+  - point: Adjustable upward/downward pitch via the adjustable foot
   - point: Integrated cable clips for clean cable management down the back of your screen
-  - point: Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
-  - point: Designed specifically for Teslas for a clean and precise fit
-  - point: Simple and quick assembly
+  - point: Made from high temperature ABS for hot Dashboard temps
+  - point: Designed specifically for the C8 Corvette for a clean and precise fit
+  - point: Simple and quick assembly (4 screws!)
 special_order: false
 customizeable: true
 images:
-- cf_src: https://assets.bartallama3d.design/listing-photos/37/0_leader.jpg
-  description: Product Leader Image
-  id: 0
-  title: Product Leader Image
-- cf_src: https://assets.bartallama3d.design/listing-photos/37/1_radars.jpg
-  description: Radars Product overview
-  id: 1
-  title: Radars Product overview
-- cf_src: https://assets.bartallama3d.design/listing-photos/37/2_c8_corvette_platform.jpg
-  description: Vehicle Platform
-  id: 2
-  title: Vehicle Platform
-- cf_src: https://assets.bartallama3d.design/listing-photos/37/3_radar_overview_uniden_r4.jpg
-  description: Radar Holder overview
-  id: 3
-  title: Radar Holder overview
-- cf_src: https://assets.bartallama3d.design/listing-photos/37/4_radar_compat_uniden_r4.jpg
+- cf_src: https://assets.bartallama3d.design/listing-photos/37/2.jpg
   description: Radar Compatibility table
-  id: 4
+  id: 0
   title: Radar Compatibility table
-- cf_src: https://assets.bartallama3d.design/listing-photos/37/5_vehicle_compat_c8_corvette.jpg
+- cf_src: https://assets.bartallama3d.design/listing-photos/37/3.jpg
   description: Vehicle Compatibility table
-  id: 5
+  id: 1
   title: Vehicle Compatibility table
-- cf_src: https://assets.bartallama3d.design/listing-photos/37/9_generic.jpg
-  description: Bartallama3D Marketing image
-  id: 6
-  title: Bartallama3D Marketing image
-- id: 7
-  cf_src: https://assets.bartallama3d.design/listing-photos/37-c8-uniden-r4/31.jpg
+- id: 2
+  cf_src: https://assets.bartallama3d.design/listing-photos/37/4.jpg
   description: A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
-- id: 8
-  cf_src: https://assets.bartallama3d.design/listing-photos/37-c8-uniden-r4/32.jpg
+- id: 3
+  cf_src: https://assets.bartallama3d.design/listing-photos/37/5.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
-- id: 9
-  cf_src: https://assets.bartallama3d.design/listing-photos/37-c8-uniden-r4/33.jpg
+- id: 4
+  cf_src: https://assets.bartallama3d.design/listing-photos/37/6.jpg
   description:  A photo of the radar holder installed in a C8 Corvette
   title: Installation Photo
   
 specs:
-  Colors: Black(Default) - Others available by request 
+  Colors: Black
   Material: ABS
   Release Date: 11/03/2024
-  Compatible Units: Uniden R4 Only
+  Compatible Units: Uniden R4 and R4W Only
   Package Dimensions: 5.25 in x 4.75 in x 2 in (13.3 cm x 12.0 cm x 5cm) [HxWxD]
-  Package Weight: 120 grams / 0.26 lbs / 4.2 oz
+  Package Weight: 160 grams / 0.26 lbs / 4.2 oz
 compatible_vehicles:
-  Corvette (C8): 2020 - 2025
+  Corvette (C8): 2020 - 2026
 additional_links:
   - text: Uniden R4
     description: Uniden R4 Radar Detector
     link: https://uniden.com/products/r4
+  - text: Uniden R4W
+    description: Uniden R4 Radar Detector
+    link: https://uniden.com/products/r4w
 revisions:
   - version: 1.0
     change_log: Initial release of the holder building on the innovation of our other holders! 
@@ -85,34 +69,30 @@ revisions:
     change_log: Newer sturdier packaging and printed color inserts. The radar unit has been updated to support rotation up to 30 degrees in either direction. The vehicle platform has been updated to include a rubber pad under the lip that sits on the screen.
   - version: 1.2
     change_log: This version ships with a new platform that supports both the thinner screen found on C8 Corvette's 2020 - 2025 and the new thicker screen found on the 2026 C8 Corvette.
+  - version: 2.0 
+    change_log: Redesign focused around ease of assembly. Unit now assembles with only 3 screws and the 4th screw is the adjustable foot screw. Version 2.0 is not compatible with prior versions due to the changing of the mounting pattern/attachment method. Version 2.0 also supports the new 2026 C8 Corvette design.    
 ---
-<img src="https://assets.bartallama3d.design/premium-content/radar-holders/header.jpg">
-<img src="https://assets.bartallama3d.design/premium-content/radar-holders/radar_description.jpg">
-<img src="https://assets.bartallama3d.design/premium-content/radar-holders/c8_platform.jpg">
-<img src="https://assets.bartallama3d.design/premium-content/radar-holders/radar_uniden_r4.jpg">
-<img src="https://assets.bartallama3d.design/premium-content/radar-holders/footer.jpg">
 
-Introducing the Bartallama3D™ Radar Holder for the Uniden R4 radar detector. Utilizing the unique properties of 3D printing, we are able to create a radar holder that is custom sculpted to fit the unique shape of a C8 Corvette. This radar holder is not compatible with any other vehicles. 
+Introducing the Bartallama3D™ Radar Holder for the Uniden R4 and R4W radar detector. This radar holder is not compatible with any other vehicles. 
 
 Key Features:
 - Mounts your radar detector on the center screen and securely holds the radar detector
 - Non-Permanent Installation, easily remove and stow radar when needed
+- Adjustable upward/downward pitch via the adjustable foot
 - Integrated cable clips for clean cable management down the back of your screen
-- Printed from high temperature ABS for Dashboard temps up to 160F (MAX 212F)
+- Made from high temperature ABS for hot Dashboard temps
 - Designed specifically for the C8 Corvette for a clean and precise fit
-- Simple and quick assembly
+- Simple and quick assembly (4 screws!)
 
 This package includes:
-- Custom precise fit holder for a Uniden R4 radar detector
+- Custom precise fit holder for the Uniden R4 and R4W radar unit
 - 2 piece radar platform designed for a precision fit on the C8 Corvette
 - Screws + tools for assembly
 - Instruction QR code
 
 Compatible Vehicles:
-- C8 Corvette 2020 - 2025
+- C8 Corvette 2020 - 2026
 
-The assembly and installation of this radar mount is similar to our Valentine One Radar mount for Teslas. A YouTube video featuring our 1st iteration of this radar mount could be found here: https://youtu.be/UG_un0AYOsU
+The assembly and installation of this radar mount can be found here: https://www.youtube.com/watch?v=_mi9e0iqWJU
 
-* Please note, we have updated our radar holders since this first iteration video with new features. Leveraging the advanced capabilities of 3D printing, we can iterate on product designs quickly, allowing us to incorporate new features into our radar units without lengthy cycles. This ensures that our products remain at the forefront of innovation and meet the evolving needs of our customers. As our products are constantly evolving, we take feedback very seriously, so if you have any ideas on how this product could be improved, please send us a note!
-
-Disclaimer: We are not affiliated with, collaborating with, or endorsed by Uniden. This product is a 3D Printed, custom designed accessory.
+Disclaimer: We are not affiliated with, collaborating with, or endorsed by Uniden. This product is a custom designed accessory.
