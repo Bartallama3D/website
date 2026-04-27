@@ -72,14 +72,6 @@ revisions:
     change_log: Redesign focused around ease of assembly. Unit now assembles with only 6 screws, the 4th screw is the adjustable foot screw and the radar holder assembles with 2 screws from the top. Version 2.0 is not compatible with prior versions due to the changing of the mounting pattern/attachment method.  
 ---
 
-3D Printed Escort Redline 360c Radar Mount for Tesla made from ABS. This mount allows you to mount a Escort Redline 360c Radar Detector to the center display screen of your Tesla. The mount is designed to hold the radar detector and prevent it from shifting while driving while also keeping it at eye level for easy visibility. The newer version of our radar holder features a Rubber pad, creating a non-permanent installation and allows you to easily remove your radar from the screen and stow it when needed. This new rubber pad still provides the same grip to prevent shifting of the radar unit while driving.
-
-This listing is for 1 mount and includes all parts needed for assembly and installation.
-
-We are not affiliated with, collaborating with, or endorsed by Escort. This product is a 3D Printed, custom designed accessory.
-
-
-
 Introducing the Bartallama3D™ Radar Holder for the Escort Redline 360c, designed specifically for Tesla vehicles. This sleek mount securely holds your radar detector on the center screen, ensuring it stays in place while driving. With integrated cable clips for clean cable management, simple assembly, and a secure fit to prevent shifting, this holder is the perfect accessory for your Tesla.
 
 Key Features:
