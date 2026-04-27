@@ -8,10 +8,10 @@ name: Bartallama3D™ Radar Holder for Escort Redline 360c compatible with Tesla
 cost: "37.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/8/0.jpg
 description: Mount for a Escort Redline 360c for a Tesla
-etsy_link: 
+etsy_link: https://bartallama3d.etsy.com/listing/4495198928/escort-redline-360c-tesla-radar-holder
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
-amazon_link: 
-ebay_link: 
+amazon_link: https://www.amazon.com/dp/B0GYMNXLG7
+ebay_link: https://www.ebay.com/itm/327125324066
 youtube_link: https://youtu.be/FaedwaeJRgI
 youtube_embed_link: https://www.youtube.com/embed/FaedwaeJRgI
 bullet_points:
