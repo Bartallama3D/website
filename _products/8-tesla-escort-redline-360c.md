@@ -12,7 +12,7 @@ etsy_link:
 cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-Radar-Holder-Assembly-Instructions.pdf
 amazon_link: 
 ebay_link: 
-youtube_link:https://youtu.be/FaedwaeJRgI
+youtube_link: https://youtu.be/FaedwaeJRgI
 youtube_embed_link: https://www.youtube.com/embed/FaedwaeJRgI
 bullet_points:
   - point: Mounts your radar detector on the center screen and Securely holds the radar detector
