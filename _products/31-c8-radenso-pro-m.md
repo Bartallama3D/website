@@ -3,7 +3,8 @@ layout: product_listing
 title: Bartallama3D™ Radar Holder for Radenso Pro M compatible with C8 Corvette
 product_id: 31-c8-radenso-pro-m
 product_id_int: 31
-hidden: false
+hidden: true
+discontinued: true
 name: Bartallama3D™ Radar Holder for Radenso Pro M compatible with C8 Corvette
 cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/31-c8-radenso-pro-m/1.jpg

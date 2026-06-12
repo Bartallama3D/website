@@ -3,7 +3,8 @@ layout: product_listing
 title: Bartallama3D™ Precision-Fit Radar Holder for Uniden DFR7 and C8 Corvette
 product_id: 39-c8-uniden-dfr7
 product_id_int: 39
-hidden: false
+hidden: true
+discontinued: true
 name: Bartallama3D™ Precision-Fit Radar Holder for Uniden DFR7 and C8 Corvette
 cost: "30.00"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/39-c8-uniden-dfr7/1.jpg
