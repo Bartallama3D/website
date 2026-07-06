@@ -10,8 +10,7 @@ cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/47-firewal
 description: Firewalla Gold Rackmount Kit (Rack Ears, Power Brick Holder and Keystones)
 etsy_link: https://bartallama3d.etsy.com/listing/4466930683/bartallama3d-1u-rackmount-kit-for
 amazon_link: https://www.amazon.com/dp/B0GR8KXQV1
-ebay_link: https://www.ebay.com/itm/327029908683
-#cf_instruction_pdf:
+cf_instruction_pdf: https://assets.bartallama3d.design/instruction-pdfs/Bartallama3D-1U-Rackmount-Kit-For-Firewalla-Gold-Pro-Assembly-Manual.pdf 
 bullet_points:
   - point: 1U form factor
   - point: Heavy duty steel rack ears with 8 keystone slots
