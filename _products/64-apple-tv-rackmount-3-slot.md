@@ -22,19 +22,19 @@ special_order: false
 customizeable: false
 images:
 - id: 1
-  cf_src: https://assets.bartallama3d.design/listing-photos/64-apple-tv-rackmount-2-slot/1.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/64-apple-tv-rackmount-3-slot/1.jpg
   description: "Back of the unit"
   title: Back of Unit
 - id: 2
-  cf_src: https://assets.bartallama3d.design/listing-photos/64-apple-tv-rackmount-2-slot/2.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/64-apple-tv-rackmount-3-slot/2.jpg
   description: "Apple TV mounted in reverse making ports accessible from the front of the rack"
   title: Reverse installation
 - id: 3
-  cf_src: https://assets.bartallama3d.design/listing-photos/64-apple-tv-rackmount-2-slot/3.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/64-apple-tv-rackmount-3-slot/3.jpg
   description: "Rackmount installed in standard 19\" server rack"
   title: Installed in a server rack
 - id: 4
-  cf_src: https://assets.bartallama3d.design/listing-photos/64-apple-tv-rackmount-2-slot/4.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/64-apple-tv-rackmount-3-slot/4.jpg
   description: "The unit comes with assembly and server racking hardware"
   title: Included parts
 specs:
