@@ -8,9 +8,9 @@ name: Bartallama3D™ 1U Rackmount for the Apple TV 4K 3rd Generation (2-Slot)
 cost: "59.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/63-apple-tv-rackmount-2-slot/0.jpg
 description: Mount your Apple TVs in your rack! 
-etsy_link: 
-amazon_link: 
-ebay_link: 
+etsy_link: https://bartallama3d.etsy.com/listing/4571063582/bartallama3d-1u-rackmount-for-the-apple
+amazon_link: https://www.amazon.com/dp/B0HJ4RC13X
+#ebay_link: 
 #youtube_link: 
 #youtube_embed_link:
 bullet_points:

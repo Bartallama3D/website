@@ -8,9 +8,9 @@ name: Bartallama3D™ 2U Rackmount for the Mac Mini M4, M5 Pro, and M6 (1-Slot)
 cost: "89.99"
 cf_image_thumbnail: https://assets.bartallama3d.design/listing-photos/17-mac-mini-rackmount-1-slot/0.jpg
 description: Mount your Mac Mini in your rack!
-etsy_link: 
-amazon_link: 
-ebay_link: 
+etsy_link: https://bartallama3d.etsy.com/listing/4571062508/bartallama3d-2u-rackmount-for-the-mac
+amazon_link: https://www.amazon.com/dp/B0HJ4PZRY1
+#ebay_link: 
 #youtube_link: 
 #youtube_embed_link:
 bullet_points:
