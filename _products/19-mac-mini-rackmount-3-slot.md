@@ -23,15 +23,15 @@ special_order: false
 customizeable: false
 images:
 - id: 1
-  cf_src: https://assets.bartallama3d.design/listing-photos/19-mac-mini-rackmount-1-slot/1.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/19-mac-mini-rackmount-3-slot/1.jpg
   description: "View of the back of the bracket with a Mac Mini installed"
   title: Back of Unit
 - id: 2
-  cf_src: https://assets.bartallama3d.design/listing-photos/19-mac-mini-rackmount-1-slot/2.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/19-mac-mini-rackmount-3-slot/2.jpg
   description: "Unit installed in standard 19\" server rack"
   title: Installed in a server rack
 - id: 3
-  cf_src: https://assets.bartallama3d.design/listing-photos/19-mac-mini-rackmount-1-slot/3.jpg
+  cf_src: https://assets.bartallama3d.design/listing-photos/19-mac-mini-rackmount-3-slot/3.jpg
   description: "The unit comes with assembly and server racking hardware + 3 ethernet cords to plug the Mac Minis into the front facing keystones"
   title: Included parts
 specs:
