@@ -11,8 +11,8 @@ description: Mount your Mac Mini in your rack!
 etsy_link: https://bartallama3d.etsy.com/listing/4571062508/bartallama3d-2u-rackmount-for-the-mac
 amazon_link: https://www.amazon.com/dp/B0HJ4PZRY1
 #ebay_link: 
-#youtube_link: 
-#youtube_embed_link:
+youtube_link: https://youtu.be/EHq3kyHxhSA
+youtube_embed_link: https://www.youtube.com/embed/EHq3kyHxhSA
 bullet_points:
   - point: Rigid steel faceplate spanning the full 19" width in 2U. It will not bend or deflect under the weight of the Mac mini.
   - point: Power button on the front panel provides easy access to boot or force-restart the Mac mini without reaching around to the rear of the rack.
