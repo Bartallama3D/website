@@ -11,8 +11,8 @@ description: Mount your Mac Minis in your rack!
 etsy_link: https://bartallama3d.etsy.com/listing/4571047975/bartallama3d-2u-rackmount-for-the-mac
 amazon_link: https://www.amazon.com/dp/B0HJ4QBWLP
 #ebay_link: 
-#youtube_link: 
-#youtube_embed_link:
+youtube_link: https://youtu.be/EHq3kyHxhSA
+youtube_embed_link: https://www.youtube.com/embed/EHq3kyHxhSA
 bullet_points:
   - point: Rigid steel faceplate spanning the full 19" width in 2U. It will not bend or deflect under the weight of the Mac mini.
   - point: Power button on the front panel provides easy access to boot or force-restart the Mac mini without reaching around to the rear of the rack.
@@ -60,6 +60,6 @@ Key Features:
 
 This listing includes the rackmount, three Cat6 keystone inserts with patch cables, three keystone blanks, the hardware to install three Mac minis, and the rack hardware (cage nuts and screws). A Phillips screwdriver is required for rack installation and is not included.
 
-Product overview and Mac mini installation instructions: Coming soon!
+Product overview and Mac mini installation instructions: https://youtu.be/EHq3kyHxhSA
 
 Disclaimer: We are not affiliated with, collaborating with, or endorsed by Apple. Mac mini is a trademark of Apple Inc. This is a custom-designed accessory.

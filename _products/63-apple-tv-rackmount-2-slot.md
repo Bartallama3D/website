@@ -11,8 +11,8 @@ description: Mount your Apple TVs in your rack!
 etsy_link: https://bartallama3d.etsy.com/listing/4571063582/bartallama3d-1u-rackmount-for-the-apple
 amazon_link: https://www.amazon.com/dp/B0HJ4RC13X
 #ebay_link: 
-#youtube_link: 
-#youtube_embed_link:
+youtube_link: https://youtu.be/gTg1On_GnMs
+youtube_embed_link: https://www.youtube.com/embed/gTg1On_GnMs
 bullet_points:
   - point: Rigid steel faceplate spanning the full 19" width in 1U. It will not bend or deflect under the weight of the Apple TVs.
   - point: Reversible mounting. Install each Apple TV facing forward for a clean front panel, or facing rearward to bring power, HDMI, and Ethernet (on Ethernet-equipped models) to the front of the rack.
@@ -62,6 +62,6 @@ Key Features:
 
 This listing includes the rackmount, the hardware to install both Apple TVs, and the rack hardware (four screws and cage nuts). A Phillips screwdriver is required for rack installation and is not included.
 
-Product overview and Apple TV installation instructions: Coming soon!
+Product overview and Apple TV installation instructions: https://youtu.be/gTg1On_GnMs
 
 Disclaimer: We are not affiliated with, collaborating with, or endorsed by Apple. Apple TV is a trademark of Apple Inc. This is a custom-designed accessory.

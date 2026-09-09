@@ -60,6 +60,6 @@ Key Features:
 
 This listing includes the rackmount, a Cat6 keystone insert with patch cable, a keystone blank, the hardware to install the Mac mini, and the rack hardware (cage nuts and screws).
 
-Product overview and Mac mini installation instructions: Coming soon!
+Product overview and Mac mini installation instructions: https://youtu.be/EHq3kyHxhSA
 
 Disclaimer: We are not affiliated with, collaborating with, or endorsed by Apple. Mac mini is a trademark of Apple Inc. This is a custom-designed accessory.
